@@ -1,0 +1,29 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0160",
+  "Codigo": "2025-0160",
+  "Referencia": "Quique Fuster, de Alberic.",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "06/08/2025": "In via email",
+      "03/09/2025": "Calculo oferta. Dudas: complemento curvo (7504) o recto (7505).",
+      "04/09/2025": "Pino nudo o Cerezo en oferta especial, hasta 45% dto.",
+      "04/09/2025": "Ver stock de C75-RT y de V98-RT. Ver stock de Excelsa y 45RT eliptica",
+      "08/09/2025": "Calculado presup con Excelsa y 45RT eliptica. Enviada oferta a Ernesto."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    }
+  ]
+}

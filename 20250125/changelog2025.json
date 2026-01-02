@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0125",
+  "Codigo": "2025-0125",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "17/06/2025": "In via email",
+      "17/06/2025" : "Enviada oferta, Altura del fijo desconocida, calculada a 1500 mm. Guía techo vista."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "17/06/2025",
+      "Series": "Decor corredera",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 853.46,
+      "Observaciones": ""
+    }
+  ]
+}

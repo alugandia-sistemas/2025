@@ -1,0 +1,25 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0032",
+  "Codigo": "2025-0032",
+  "Referencia": "",
+  "Cliente": 10025,
+  "Cambios": [
+    {
+      "29/01/2025": "In via email. "
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "12/02/2025",
+      "Series": "Decor corredera",
+      "Acabado": "LBN Mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 387.23,
+      "Observaciones": ""
+    }
+  ]
+}

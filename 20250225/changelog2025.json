@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0225",
+  "Codigo": "2025-0225",
+  "Referencia": "Urba. La Rampa",
+  "Cliente": 4121,
+  "Cambios": [
+    {
+      "13/11/2025": "In via email a proyectos@. Ver 2025-0100, 2025-0091, 2025-, para desglose de Domo 80.",
+      "14/11/2025": "Precios netos Jaime para LBN + base anódica."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "14/11/2025",
+      "Series": "Domo 80, C-70 fijos",
+      "Acabado": "Lac. Blanco base anódica",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 4068.04,
+      "Observaciones": "Multipuntos + manetas acodadas Stac. 3308 se calcula con 3305. 3338 se calcula con 3339."
+    }
+  ]
+}

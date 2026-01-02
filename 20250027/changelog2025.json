@@ -1,0 +1,39 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0027",
+  "Codigo": "2025-0027",
+  "Referencia": "",
+  "Cliente": 1178,
+  "Cambios": [
+    {
+      "06/02/2025": "In via teléfono. Isidoro Brines llama cuando sale de medir. Correderas para reforma en AiguaBlava de Carlos Soleco.",
+      "07/02/2025" : "Opciones de corredera, limitaciones a espacio para el marco, 12 cm para corredera 3H3C y 9 cm para 2H2C. Opción 1 es C75RT, y Opción 2 es Domo 80 minimalista.",
+      "25/02/2025" : "Enviadas ofertas a Isidoro y a Carlos y MD. Añadido tirador Fenix."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "18/02/2025",
+      "Series": "C-75RT",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -37,
+      "Perfiles": 1678.40,
+      "Accesorios": 176.78,
+      "Perfiles neto": 1057.39,
+      "Total neto": 1234.17,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "18/02/2025",
+      "Series": "Domo 80",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -35,
+      "Perfiles": 954.66,
+      "Accesorios": 267.60,
+      "Perfiles neto": 620.53,
+      "Total neto": 988.13,
+      "Observaciones": "Total neto es 888.13. Se añaden 100€ de Extras."
+    },
+  ]
+}

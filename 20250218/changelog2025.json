@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0218",
+  "Codigo": "2025-0218",
+  "Referencia": "Guías decor para panel de madera",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "5/11/2025": "In via email. Llamada de cliente el 3/11. Marido de la clienta (Mª Dolores) nos conoce, nos ha comprado.",
+      "5/11/2025": "Cliente nuevo. Gala's muebles y decoracion. Calle SANT DOMENEC 8, 03760, Ondara - Alicante/Alacant.",
+      "5/11/2025": "Precio de guías de 3 m ocultas desmontables + Ruedas para panel de madera de aprox. 100 Kgrs. + Amortiguadores"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "7/11/2025",
+      "Series": "Adinor Sky",
+      "Acabado": "Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 275,
+      "Observaciones": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0202",
+  "Codigo": "2025-0202",
+  "Referencia": "Alain Montepego",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "13/10/2025": "In via en mano, Jaime.",
+      "13/10/2025": "V94 RAL 7016 Mate. NO Texturado. Hoja 943620 en V1 y V2 (puertas).",
+      "15/10/2025": "Enviada oferta a cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "13/10/2025",
+      "Series": "V-94",
+      "Acabado": "RAL 7016 Mate",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1111.15,
+      "Observaciones": ""
+    }
+  ]
+}

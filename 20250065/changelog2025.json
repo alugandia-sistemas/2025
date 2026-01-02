@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0065",
+  "Codigo": "2025-0065",
+  "Referencia": "",
+  "Cliente": 16002,
+  "Cambios": [
+    {
+      "24/03/2025": "In via en mano",
+      "25/03/2025" : "Calculado material. Enviadoa Ismael que comnuica al cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "25/03/2025",
+      "Series": "C-70, V-94",
+      "Acabado": "Lac. Blanco Puerta Patio, Lac. Especial (oxidón) Puerta entrada.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 958.42,
+      "Observaciones": "PATIO es 424.96€ y ENTRADA es 533.46€"
+    }
+  ]
+}

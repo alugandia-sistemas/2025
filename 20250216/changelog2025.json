@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0216",
+  "Codigo": "2025-0216",
+  "Referencia": "67RT, 67RT-CO",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "31/10/2025": "In via whatsapp. Urgente, valoración 67RT y 67RT-CO. Acabado Lac. Texturado, según planos.",
+      "31/10/2025": "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "31/10/2025",
+      "Series": "Domo 67RT, 67RT-CO",
+      "Acabado": "Lac. RAL 7016 Text. (Especial)",
+      "Descuentos": -35,
+      "Perfiles": 1843.14,
+      "Accesorios": 421.43,
+      "Perfiles neto": ,
+      "Total neto": 1619.47,
+      "Observaciones": ""
+    }
+  ]
+}

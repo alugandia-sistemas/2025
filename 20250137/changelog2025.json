@@ -1,0 +1,38 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0137",
+  "Codigo": "2025-0137",
+  "Referencia": "",
+  "Cliente": 5112,
+  "Cambios": [
+    {
+      "07/07/2025": "In via email. Serie corredera RPT y abatible RPT, en LBN, en stock de casa. Se calcula con C75-RT y Domo 60RT. Oferta especial de Excelsa.",
+      "08/07/2025" : "Oferta enviada. Series en casa: C75RT y Domo 60RT."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "08/07/2025",
+      "Series": "C75RT",
+      "Acabado": "LBN",
+      "Descuentos": -32,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1678.48,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "08/07/2025",
+      "Series": "60RT",
+      "Acabado": "LBN",
+      "Descuentos": -32,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1084.60,
+      "Observaciones": ""
+    },
+  ]
+}

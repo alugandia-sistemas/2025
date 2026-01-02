@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0055",
+  "Codigo": "2025-0055",
+  "Referencia": "Decor en Passeig Colón 9",
+  "Cliente": 12506,
+  "Cambios": [
+    {
+      "11/03/2025": "In via en persona. Villalonga, Bricosafor o Ecoventanas. Solución Decor para piso en Pas. Colón, 9.",
+      "10/04/2025" : "Enviada propuesta para Decor corredera en Plaza Colón, 9, Villaonga."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "11/03/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 914.66,
+      "Observaciones": "Incluido rect. 40x20 reforzado para unir 2 kits de hoja."
+    }
+  ]
+}

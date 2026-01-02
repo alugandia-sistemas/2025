@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0124",
+  "Codigo": "2025-0124",
+  "Referencia": "Solución con Decor, a 3 m.",
+  "Cliente": 3056,
+  "Cambios": [
+    {
+      "11/06/2025" : "In via whatsapp Ismael. Comentado por teléfono con David Cardona, la solución que necesita para correr delante de fijo ya instalado. Altura 2'8 m, RAL 7016 (se lo laca el cliente).",
+      "11/06/2025" : "Comentar con Adinor, kits de puerta a 3 m en CSA.",
+      "13/06/2025" : "Solución de Adinor recibida.",
+      "27/06/2025" : "Enviada valroación PVP a Cardona Bañón."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    }
+  ]
+}

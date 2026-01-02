@@ -1,0 +1,29 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0188",
+  "Codigo": "2025-0188",
+  "Referencia": "Lucrecia Cardona, reforma piso 15 en Passeig de l'Albereda.",
+  "Cliente": 4092,
+  "Cambios": [
+    {
+      "26/09/2025": "In via email. Obra reforma piso 15 en Valencia, 67RT-HO C16, Bicolor (Negro Text. EXT. / Blanco Text. INT.).",
+      "29/09/2025": "Combinar 2 solapes, INT (2875 a 5.34 €/m.l. NETOS JAIME) y EXT. (2944 a a 2.05 €/m.l NETOS JAIME).",
+      "29/09/2025": "Cliente sólo quiere precios de Perfiles y Accesorios de la serie, NO QUIERE HERRAJE.",
+      "29/09/2025": "Domo 45, NO QUIERE MARCO, sólo Hoja (2103) y Junquillo (3936), y accesorios de la serie.",
+      "01/10/2025": "Recalculado por Felip, 2 dias después. Tiempo total de presupuesto: 3 días, 3 personas."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "29/09/2025",
+      "Series": "67RT-HO C16 en Bicolor, Domo 45 en Negro Text.",
+      "Acabado": "Bicolor (Negro Text. EXT. / Blanco Text. INT)",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2804.89,
+      "Observaciones": "2340.40 Domo 67RT-HO-C16 + 159.9 Solape 2944; 304.59 Domo 45 "
+    }
+  ]
+}

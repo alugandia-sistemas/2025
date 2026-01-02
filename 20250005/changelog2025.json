@@ -1,0 +1,53 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0005",
+  "Codigo": "2025-0005",
+  "Referencia": "",
+  "Cliente": 5153,
+  "Cambios": [
+    {
+      "13/01/2025": "In via whatsapp. 2 opciones de Elevable, 2H y 3H.",
+      "14/01/2025" : "Enviado cálculo 1.",
+      "11/02/2025" : "Entra oferta 2. Añaden abatible 67RT.",
+      "12/02/2025" : "Enviada oferta 2."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "14/01/2025",
+      "Series": "125RT elevable",
+      "Acabado": "Lacado Blanco",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2120.65,
+      "Observaciones": "OPC1 2H elevables"
+    },
+    {
+      "Orden": "1",
+      "Fecha": "14/01/2025",
+      "Series": "125RT elevable",
+      "Acabado": "Lacado Blanco",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3129.33,
+      "Observaciones": "OPC2 3H elevables"
+    },
+    {
+      "Orden": "2",
+      "Fecha": "11/02/2025",
+      "Series": "125RT elevable 2H, 67RT",
+      "Acabado": "Lacado Blanco",
+      "Descuentos": -35,
+      "Perfiles": 5067.29,
+      "Accesorios": 1246.72,
+      "Perfiles neto": 3293.74,
+      "Total neto": 4540.46,
+      "Observaciones": "OPC1 2H elevables + 67RT."
+    },
+
+  ]
+}

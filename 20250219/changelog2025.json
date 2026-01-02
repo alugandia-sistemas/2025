@@ -1,0 +1,39 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0219",
+  "Codigo": "2025-0219",
+  "Referencia": "",
+  "Cliente": 10025,
+  "Cambios": [
+    {
+      "7/11/2025": "In via email. 2 opciones Decor corredera.",
+      "10/11/2025": "Enviada duda a Muixara. Guías ocultas o no?. 2 guías o 1 guía?.",
+      "10/11/2025": "Enviadas ofertas de 2 opciones. A falta de confirmar tipo de guía."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "10/11/2025",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1158.68,
+      "Observaciones": "2H correderas, guías ocultas desmontables."
+    },
+    {
+      "Orden": "1",
+      "Fecha": "10/11/2025",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 890.72,
+      "Observaciones": "1H corredera + 1F, guías ocultas desmontables."
+    }
+  ]
+}

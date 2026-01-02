@@ -1,0 +1,58 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0113",
+  "Codigo": "2025-0113",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "20/05/2025": "In via whatsapp",
+      "20/05/2025" : "Enviada oferta, primero total por whatsapp a Vicent.",
+      "26/05/2025" : "Vicent envía Pedido, con modificaciones. Corredera de 2 hojas, con ancho de hoja de 400 mm. Se añadre practicable 1H.",
+      "27/05/2025" : "Enviada oferta.",
+      "27/05/2025" : "Revisados precios, creada Oferta 3.2. Corredera 5% adicional, Practicable con kit magnético.",
+      "29/05/2025" : "Es PEDIDO. Vicent confirma cuando voy a entregar pedido en su tienda. W22.",
+      "09/06/2025" : "Cliente (Vicent) pregunta fecha de entrega. Indalsu planifica W25.",
+      "11/06/2025" : "Se adelant Pedido y entra W24, a falta de 1 referencia, 35902NT30.",
+      "12/06/2025" : "Comentado con cliente, espera a tener pedido completo. W25 entra referencia que falta, 35902NT30.",
+      "19/06/2025" : "Entregado el material al cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "20/05/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 800.46,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "3",
+      "Fecha": "27/05/2025",
+      "Series": "Decor corredera, Decor practicable",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1930.57,
+      "Observaciones": "DC01 es 1069.88 y DP02 es 860.69"
+    },
+    {
+      "Orden": "3.2",
+      "Fecha": "27/05/2025",
+      "Series": "Decor corredera, Decor practicable kit magnético",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1608.57,
+      "Observaciones": "DC01 es 1016.39 y DP02 es 592.18"
+    },
+  ]
+}

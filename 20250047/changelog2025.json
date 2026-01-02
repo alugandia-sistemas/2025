@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0047",
+  "Codigo": "2025-0047",
+  "Referencia": "",
+  "Cliente": X,
+  "Cambios": [
+    {
+      "27/02/2025": "In via email. Es Juan Carlos Neometal, con empresa nueva, Joan López.",
+      "27/02/2025" : "Calculada oferta con 10% adicional por Histórico del cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "27/02/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1267.40,
+      "Observaciones": ""
+    }
+  ]
+}

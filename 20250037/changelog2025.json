@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0037",
+  "Codigo": "2025-0037",
+  "Referencia": "",
+  "Cliente": 1178,
+  "Cambios": [
+    {
+      "14/02/2025": "In via whatsapp",
+      "18/02/2025" : "Calculada oferta.",
+      "19/02/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "18/02/2025",
+      "Series": "Mallorquina corredera",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1995.47,
+      "Observaciones": "Enviado a cliente 2002.79"
+    }
+  ]
+}

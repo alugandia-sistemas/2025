@@ -1,0 +1,32 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0171",
+  "Codigo": "2025-0171",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "08/09/2025": "In via email. Vivienda en L'Eliana, similar carpinterías ya acabado a Vivienda en Godella (2024-0078, 2025-0135).",
+      "09/09/2025": "Tapajuntas?. En 2025-0135: TAPAJUNTAS: Cliente quiere para todo tapajuntas FM4032 (INDALSU: calculado en Winperfil con 2856, precio FM4032 es 7'45 € Lac. Especial.",
+      "09/09/2025": "Precio Tarifa Lac. Especial.",
+      "09/09/2025": "Hueco cristal 67RT : 26 mm. según memoria. 5+5/10/6. Hueco cristal 67RT-CO: 22 mm. 3+3/10/6.",
+      "09/09/2025": "DUDA: Lamas PEF-1",
+      "09/09/2025": "Unión marcos 3919 en 67RT + 67RT-CO.",
+      "10/09/2025": "Herraje elevable calculado a 170€/hoja.",
+      "10/09/2025": "Recalculado mat_analysis_he, herraje elevable a 350€ (175€/hoja). Enviada oferta a cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "09/09/2025",
+      "Series": "Domo 67RT, 67RT-CO, 125RT elevable",
+      "Acabado": "RAL 7016 Texturado",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 11741.72,
+      "Observaciones": ""
+    }
+  ]
+}

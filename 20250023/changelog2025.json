@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0022",
+  "Codigo": "2025-0022",
+  "Referencia": "Mari Cruz",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "04/02/2025": "In via email",
+      "04/02/205" : "OFerta enviada"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "04/02/2025",
+      "Series": "Decor Fijos",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 448.74,
+      "Observaciones": "Opción A: 448.74€, opc. B: 405.15€."
+    }
+  ]
+}

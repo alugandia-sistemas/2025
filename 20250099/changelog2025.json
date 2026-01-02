@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0099",
+  "Codigo": "2025-NNNN",
+  "Referencia": "",
+  "Cliente": 4159,
+  "Cambios": [
+    {
+      "05/05/2025": "In via email",
+      "06/05/2025" : "Calculado y enviado a cliente. "
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "06/05/2025",
+      "Series": "67RT-CO",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": 37,
+      "Perfiles": 1518.53,
+      "Accesorios": 269.43,
+      "Perfiles neto": 956.67,
+      "Total neto": 1226.10,
+      "Observaciones": ""
+    }
+  ]
+}

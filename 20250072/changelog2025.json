@@ -1,0 +1,38 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0072",
+  "Codigo": "2025-0072",
+  "Referencia": "",
+  "Cliente": 4121,
+  "Cambios": [
+    {
+      "02/04/2025" : "In via email. Comercial dice nuestro cliente comparará precios con Salvador Domenech, de Alcoi.",
+      "03/04/2025" : "Enviada oferta." 
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "03/04/2025",
+      "Series": "Domo 60RT",
+      "Acabado": "Anod. Plata Brillo",
+      "Descuentos": -37,
+      "Perfiles": 1627.41,
+      "Accesorios": 536.72,
+      "Perfiles neto": 1025.27,
+      "Total neto": 1561.99,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "03/04/2025",
+      "Series": "Sopena C75-RT",
+      "Acabado": "Anod. Plata Brillo",
+      "Descuentos": -37,
+      "Perfiles": 759.68,
+      "Accesorios": 85.79,
+      "Perfiles neto": 478.60,
+      "Total neto": 564.39,
+      "Observaciones": ""
+    },
+  ]
+}

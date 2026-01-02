@@ -1,0 +1,70 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0135",
+  "Codigo": "2025-0135",
+  "Referencia": "Godella 2",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "03/07/2025": "In via email. Obra inspirada en 2024-0078 Ref. Vivienda en Godella. Es familia del constructor, y quiere material igual/similar.",
+      "04/07/2025" : "TAPAJUNTAS: Cliente quiere para todo tapajuntas FM4032 (INDALSU: calculado en Winperfil con 2856, precio FM4032 es 6'15 € Lac. Estandar. SOPENA: calculado en Winperfil con 72702 a 3'81 € Lac. Estandar.).",
+      "04/07/2025" : "CRISTAL: Calculado todo con acristalamiento 6+6/10/4.",
+      "04/07/2025" : "LAMAS: Definir model de lamas para 67RT en PE-1, son XXX, y definir modelo de lamas para V-94 en PA-1, PA-2, PA-3, PA-4 son XXX",
+      "04/07/2025" : "PK-2 Apert. Exterior abatible NO puede ser OB.",
+      "04/07/2025" : "Precios que faltan: 3677 en PK-2, ",
+      "04/07/2025" : "VOF-1 con travesaño Horiz. ???",
+      "07/07/2025" : "Revisar / aplicar cambios de Jaime. Los cerramientos de INDALSU no generan nuevo código winperfil, son cambios menores. Los cerramientos SOPENA sí generan nueva oferta y código Winperfil 1434-2.",
+      "07/07/2025" : "Cambiar Acabado a RAL 7016 Texturado, como en Godella 1. TAPAJUNTAS: Cliente quiere para todo tapajuntas FM4032 (INDALSU: calculado en Winperfil con 2856, precio FM4032 es 7'45 € Lac. Especial. SOPENA: calculado en Winperfil con 72702 a 4'77 € Lac. Especial.) ",
+      "18/12/2025": "V-94 Trasteros tiene que ser Apert. Exterior. 7 barras de 941620 se deben cambiar por 7 barras de 943623. Creada carpeta CÁLCULO 2. Jaime pide material a Sopena directo.",
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "04/07/2025",
+      "Series": "67RT,67RT-CO,125RT",
+      "Acabado": "RAL 7016",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "04/07/2025",
+      "Series": "V-94",
+      "Acabado": "RAL 7016",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": "V-94 para cerramientos PA-1, PA-2, PA-3 y PA-4"
+    },
+    {
+      "Orden": "2",
+      "Fecha": "07/07/2025",
+      "Series": "67RT,67RT-CO,125RT",
+      "Acabado": "RAL 7016 Texturado",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 12701.03,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "2",
+      "Fecha": "07/07/2025",
+      "Series": "V-94",
+      "Acabado": "RAL 7016",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2623.58,
+      "Observaciones": "V-94 para cerramientos PA-1, PA-2, PA-3 y PA-4"
+    },
+  ]
+}

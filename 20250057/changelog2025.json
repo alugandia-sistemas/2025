@@ -1,0 +1,40 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0057",
+  "Codigo": "2025-0057",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "11/03/2025": "In via email. 2 opciones de Elevable, RPT y No RPT.",
+      "12/03/2025" : "Herraje elevable 125RT a 165€ por hoja, herraje elevable Sopena a 200€ por hoja.",
+      "12/03/2025" : "Precios 34722 a 53,10€, 34710 a 71,38, 32750 a 29,63. Eliminar 30670, 31075 de Accesorios."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1.1",
+      "Fecha": "12/03/2025",
+      "Series": "Domo 125RT",
+      "Acabado": "RAL Especial",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2694.27,
+      "Observaciones": "Opción 1, 125RT Elevable 2H ocultas a pared."
+    },
+    {
+      "Orden": "1.2",
+      "Fecha": "12/03/2025",
+      "Series": "ELV-100 elevable",
+      "Acabado": "RAL Especial",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2193.48,
+      "Observaciones": "Opción 2, ELV-100 Elevable 2H ocultas a pared."
+    },
+
+  ]
+}

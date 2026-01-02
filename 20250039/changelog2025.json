@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0039",
+  "Codigo": "2025-0039",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "20/02/2025": "In via whatsapp",
+      "20/02/2025": "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "20/02/2025",
+      "Series": "Decor Fijo",
+      "Acabado": "RAL 7016 Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 341.51,
+      "Observaciones": "Precios de LC1 en Tarifa Decor. Precio de 35908 en Crudo +35%."
+    }
+  ]
+}

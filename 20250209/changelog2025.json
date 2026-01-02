@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0209",
+  "Codigo": "2025-0209",
+  "Referencia": "",
+  "Cliente": 10025,
+  "Cambios": [
+    {
+      "27/10/2025": "In via email. Cliente quiere guía y herraje (ruedas + amortiguador), para colgar panel de madera.",
+      "27/10/2025": "Enviada oferta, de guía + herrajes para panel de madera."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 117.67,
+      "Observaciones": ""
+    }
+  ]
+}

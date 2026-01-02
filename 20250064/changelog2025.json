@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0064",
+  "Codigo": "2025-0064",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "21/03/2025": "In via email. Memoria de carp. interiorismo. Decor corredera 2H corred. centrales y 2 fijos laterales.",
+      "24/03/2025" : "Enviada oferta",
+      
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "24/03/2025",
+      "Series": "Decor corredera",
+      "Acabado": "RAL 7016",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1594.64,
+      "Observaciones": "Calculada opción según foto enviada por cliente. Memoria de carpintería es confusa."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0025",
+  "Codigo": "2025-0025",
+  "Referencia": "",
+  "Cliente": 12529,
+  "Cambios": [
+    {
+      "04/02/2025": "In via email",
+      "05/02/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "05/02/2025",
+      "Series": "Domo 85RT Plus",
+      "Acabado": "",
+      "Descuentos": -37,
+      "Perfiles": 1809.31,
+      "Accesorios": 220.97,
+      "Perfiles neto": 1139.86,
+      "Total neto": 1360.83,
+      "Observaciones": ""
+    }
+  ]
+}

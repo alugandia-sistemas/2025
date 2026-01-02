@@ -1,0 +1,41 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0220",
+  "Codigo": "2025-0220",
+  "Referencia": "Pedro Leal",
+  "Cliente": 8009,
+  "Cambios": [
+    {
+      "07/11/2025": "In via email. Pedido en Lac. Madera Roble golden, para continuar Pedido de 11/2021.",
+      "10/11/2025": "Calculado material de 2817 (5.77) a precio de 72703 (8.79)",
+      "10/11/2025": "Ver stock de 72703, tapajuntas 60mm. Ver stock de 2441, 2402, 2808. Añadir contraventanas a las 3 ventanas. CONTRAVENTANAS: con lama panelable 7585.",
+      "10/11/2025": "Ver opciones con 45RT. Cliente dice que Domo 60RT, igual que pedido de 2021.",
+      "11/11/2025": "Cambiamos hoja 2403 a 2443 que hay en stock en ALG. Cálculo nuevo."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "10/11/2025",
+      "Series": "Domo 60RT",
+      "Acabado": "Lac. Madera roble golden",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1201.34,
+      "Observaciones": "1201.34 € es precio de Domo 60RT, perfiles + Accesorios. Falta añadir: ángulo 80x40 2 barras, lama panelable para contraventanas (4 barras), contraventanas."
+    },
+    {
+      "Orden": "2",
+      "Fecha": "11/11/2025",
+      "Series": "Domo 60RT",
+      "Acabado": "Lac. Madera roble golden",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1218.25,
+      "Observaciones": "Cambiada hoja a 2443. 1218.25 € es precio de Domo 60RT, perfiles + Accesorios. Falta añadir: ángulo 80x40 2 barras, lama panelable para contraventanas (4 barras), contraventanas."
+    },    
+  ]
+}

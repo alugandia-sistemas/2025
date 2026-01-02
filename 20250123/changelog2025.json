@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0123",
+  "Codigo": "2025-0123",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "06/06/2025": "In via whatsapp Jaime.",
+      "09/06/2025" : "Calculada oferta y enviada al cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "09/06/2025",
+      "Series": "Domo 67RT, Domo 125RT",
+      "Acabado": "Lac. Blanco (125RT), Lac. RAL 7016 Text. (67RT)",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3376.50,
+      "Observaciones": "RAL 7016 Text es 1462.76 € NETO y LBN es 1913.74 € NETO."
+    }
+  ]
+}

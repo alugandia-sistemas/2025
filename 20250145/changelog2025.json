@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto AF2025-0145",
+  "Codigo": "AF2025-0145",
+  "Referencia": "",
+  "Cliente": 1013,
+  "Cambios": [
+    {
+      "15/07/2025": "In via en mano. Raul de Ventaluxe trae hoja de cortes que necesita.",
+      "15/07/2025" : "Opticutter cálculo de paneles. Blanco brillo a 2 medidas de ancho 1000 mm o 1200 mm. Blanco mate a 1200mm de ancho."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    }
+  ]
+}

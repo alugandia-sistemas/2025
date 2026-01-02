@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0206",
+  "Codigo": "2025-0206",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "15/10/2025": "In via whatsapp. Domo 67RT y 67RT-CO. Lac. Blanco.",
+      "17/10/2025": "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "16/10/2025",
+      "Series": "Domo 67RT, 67RT-CO",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2030.40,
+      "Observaciones": ""
+    }
+  ]
+}

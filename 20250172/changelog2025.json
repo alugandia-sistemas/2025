@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0172",
+  "Codigo": "2025-0172",
+  "Referencia": "Mallorquina 2H lama móvil",
+  "Cliente": 1143,
+  "Cambios": [
+    {
+      "dd08/09/2025": "In via whatsapp Ismael.",
+      "10/09/2025" : "Mecanismos mallorquina ref. 4000615P (15L) a 36.82€, 4000614P (13L) a  34.90€, 4000613P (14L) a 33.09€",
+      "10/09/2025" : "Calculado material en Mallorquina Indalsu, convertir a Mallorquina Alugandia. Crear conversión/kit de Mallorquina Alugandia"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "10/09/2025",
+      "Series": "Mallorquina Alugandia",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 704,
+      "Observaciones": ""
+    }
+  ]
+}

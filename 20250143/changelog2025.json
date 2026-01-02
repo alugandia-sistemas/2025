@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0143",
+  "Codigo": "2025-0143",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "14/07/2025": "In via en mano, email.",
+      "14/07/2025" : "Enviado cálculo a Jaime."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "14/07/2025",
+      "Series": "Domo 50P",
+      "Acabado": "RAL 7016 Text.",
+      "Descuentos": -40,
+      "Perfiles": 1419.54,
+      "Accesorios": 306.11,
+      "Perfiles neto": 851.72,
+      "Total neto": 1157.83,
+      "Observaciones": ""
+    }
+  ]
+}

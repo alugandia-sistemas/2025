@@ -1,0 +1,38 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0152",
+  "Codigo": "2025-0152",
+  "Referencia": "",
+  "Cliente": 12571,
+  "Cambios": [
+    {
+      "24/07/2025": "In via en mano. Escaneado. de Neometal / Joan López.",
+      "24/07/2025" : "A limpio precios de 2 opciones de pérgolas Bio. Para cliente, quiere cubrir zona de piscina, pérgola tiene dimensiones máximas, y forma no rectangular."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "24/07/2025",
+      "Series": "Pérgola bio. Aatrio",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 54660.06,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "24/07/2025",
+      "Series": "Opción 2. Pérgola bio. Hibra retráctil.",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 62268,
+      "Observaciones": ""
+    }
+  ]
+}

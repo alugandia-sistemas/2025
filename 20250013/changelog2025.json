@@ -1,0 +1,29 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0013",
+  "Codigo": "2025-0013",
+  "Referencia": "Casa de Joaquín",
+  "Cliente": 12506,
+  "Cambios": [
+    {
+      "20/01/2025": "In via whatsapp",
+      "21/01/2025" : "Oferta enviada.",
+      "24/01/2025" : "Aceptada oferta, es PEDIDO. Diego Ecoventanas recoge guía y herrajes para instalar ya.",
+      "11/06/2025" : "Diego contacta busdcando montador para este proyecto. Conatctados Biselats Alcoi y Cristalum, pero van saturados.",
+      "11/06/2025" : "Faltaba referencia 35902 de 3m. Se envía al cliente para completar pedido."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "21/01/2025",
+      "Series": "Decor corredera",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1081.68,
+      "Observaciones": "Coredera guía empotrada 35009 2 metros."
+    }
+  ]
+}

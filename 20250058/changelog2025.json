@@ -1,0 +1,31 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0058",
+  "Codigo": "2025-0058",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "07/02/2025": "In via teléfono, de Vicent de Melchor Mañó.",
+      "11/03/2025" : "Vicent confirma resto del pedido. Casquillo 35013 ya servido e instalado en obra. Corredera 4H2C.",
+      "13/03/2025" : "Enviado Listado de material a Jaime, para que confirme Pedido con Indalsu.",
+      "14/04/2025" : "Incidencia con pedido. Kits amortiguadores (4 uds) no son los 35040GDSA, se han servido los 35040SA. Pedido por mensajería a Adinor.",
+      "05/05/2025" : "Incidencia 2. Amortiguadores necesarios son los cortos.",
+      "12/05/2025" : "Solucionada incidencia con amortiguadores cortos. Adinor explica que para hojas tan cortas, donde hace falta montar amortiguadores cortos, éstos deben ajustarse con arandelas laterales, para evitar estrangular rueda del amortiguador y que funcione el sistema correctamente. Consejo Adinor: hojas NO INFERIORES a 700 de anchura.",
+      "19/05/2025" : "Vicent de Melchor confirma que montaje ha ido todo bien."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "12/03/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1696.72,
+      "Observaciones": ""
+    }
+  ]
+}

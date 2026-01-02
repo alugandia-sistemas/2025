@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0194",
+  "Codigo": "2025-0194",
+  "Referencia": "",
+  "Cliente": 9082,
+  "Cambios": [
+    {
+      "03/10/2025": "In via email. Bicolor (Blanco Int. / RAL 3012 Ext.)",
+      "06/10/2025" : "Calcular importe, para pedir 30% anticipado al cliente.",
+      "15/10/2025": "Preparando pedido",
+      "1/12/2025" : "Pedido entregado. Averiguar fecha."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    }
+  ]
+}

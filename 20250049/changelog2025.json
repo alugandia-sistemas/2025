@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0049",
+  "Codigo": "2025-0049",
+  "Referencia": "",
+  "Cliente": 9001,
+  "Cambios": [
+    {
+      "27/02/2025": "In via email de pedidos@alugandia.es. Corredera 2H guía empotrada simple.",
+      "27/02/2025": "Evnviada oferta.",
+      "28/02/2025": "Cálculos del comercial guardados en el proyecto."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "27/02/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Mars óxido",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1265.71,
+      "Observaciones": "Lac. Mars es Especial 3-LC7 en Domo Decor acabados."
+    }
+  ]
+}

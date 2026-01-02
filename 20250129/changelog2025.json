@@ -1,0 +1,38 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0129",
+  "Codigo": "2025-0129",
+  "Referencia": "",
+  "Cliente": 6147,
+  "Cambios": [
+    {
+      "19/06/2025" : "In via email",
+      "20/06/2025" : "Evniada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "67RT, 67RT-CO",
+      "Series": "2 opciones",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -34,
+      "Perfiles": 4063.22,
+      "Accesorios": 1516.48,
+      "Perfiles neto": 0.0,
+      "Total neto": 4198.20,
+      "Observaciones": "En C1: Añadido a mano 30283, 30282 y 30281. Sobran 30202 y 30280. Todaas 67rt-CO: calzo multip. 30289 => 30292,"
+    },
+    {
+      "Orden": "1",
+      "Fecha": "67RT, 67RT-CO",
+      "Series": "2 opciones",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -34,
+      "Perfiles": 5338.91,
+      "Accesorios": 1516.48,
+      "Perfiles neto": 0.0,
+      "Total neto": 5040.16,
+      "Observaciones": "En C1: Añadido a mano 30283, 30282 y 30281. Sobran 30202 y 30280. Todaas 67rt-CO: calzo multip. 30289 => 30292,"
+    }
+  ]
+}

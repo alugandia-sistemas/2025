@@ -1,0 +1,111 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0153",
+  "Codigo": "2025-0153",
+  "Referencia": "Hermana del cliente (Ballester).",
+  "Cliente": 6103,
+  "Cambios": [
+    {
+      "25/07/2025": "In via email. Cliente tiene 37% en ficha. Comercial pide estudiar precios para la hija del cliente.",
+      "28/07/2025" : "Cálculo GS-82RT. Precios de 82005, 820035 no creados en WinPerfil. Precios de todo los calcula Jaime. Lac. Madera, precios de 82005, 82035, 82060, 82265. Precio de 82005 = 82001 + 2% = 32'05€. Precio de 82035 = 82030 + 2% = 47'26€.",
+      "28/07/2025" : "Accesorios. Cremonas multip. pedidas no corresponden con las que pone WinPerfil (se pide 0826131 se pone 0826121, se pide 0826141 se pone 0826131).",
+      "28/07/2025" : "Accesorios. Ruedas pedidas 0821742, 0821762 no existen en WinPerfil. No tenemos precio. Precio de 0821742 = 0821722 + 20% = 7'60€. Precio de 0821762 = 0821722 + 30% = 8'23€.",
+      "28/07/2025" : "Manetas Valgom de Stac. Precios según oferta en la web. 48206 y 48204 a 13'35-30% = 9'35 * 1'50 = 14'01€.",
+      "28/07/2025" : "Uñeros de Stac, de Valgom. Precios según oferta de Valgom: 8'01-30% = 5'61 * 1'50 = 8'41€",
+      "28/07/2025" : "Cálculo 67RT. Junquillo. 2886 calculado con 2812. 2812 con precio de 2886, que es 7'24€.",
+      "28/07/2025" : "Tapajuntas 72701 para 67RT, calculado con 2817 con precio de 72701, que es 6'23€.",
+      "28/07/2025" : "Enviada oferta a cliente.",
+      "17/09/2025" : "Comercial VLC envía petición para Cálculo 2. Opciones RPT (como antes GS-82RT y 67RT) y No-RPT (C70, V94)",
+      "18/09/2025" : "Cálculo 2 67RT. Cambios 67RT: V10, V11, V12 => 5 OB CAMBIAN a V10b, V11b, V12b, V15 => 7 OB. Y cambian medidas de V10, V11, V12 y V13b. V13 de 900x2100 desaparece. V14 no cambia. Aparecen 2 Fijos, V16 y V17.",
+      "18/09/2025" : "Cálculo 2 GS-82RT. C1, C2, C5 cambian de medidas. C3 y C4 no cambian. C6, C7, C8 y C9 no cambian.",
+      "01/10/2025" : "Petición oferta 3, con cambios.",
+      "01/10/2025" : "Cálculo 3 67RT. Cambios: Tapajuntas.",
+      "03/10/2025" : "Accesorios: 0823363, calzo hoja cierre + uñero. Cremonas para balconera (0826141) no existen => 0826131. Ruedas tandem 0821742 no existen => 0821722.",
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "28/07/2025",
+      "Series": "GS-82RT",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 7395.78,
+      "Observaciones": "Ajustes adicionales indicados en Cambios."
+    },
+    {
+      "Orden": "1",
+      "Fecha": "28/07/2025",
+      "Series": "67RT",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2894.72,
+      "Observaciones": "Ajustes adicionales indicados en Cambios."
+    },
+    {
+      "Orden": "2",
+      "Fecha": "18/09/2025",
+      "Series": "67RT",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 4066.03,
+      "Observaciones": "Ajustes adicionales indicados en Cambios."
+    },
+    {
+      "Orden": "2",
+      "Fecha": "18/09/2025",
+      "Series": "GS-82RT",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 7681.25,
+      "Observaciones": "Ajustes adicionales indicados en Cambios."
+    }, 
+    {
+      "Orden": "2",
+      "Fecha": "18/09/2025",
+      "Series": "V94",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2856.74,
+      "Observaciones": "Ajustes adicionales indicados en Cambios."
+    },
+    {
+      "Orden": "2",
+      "Fecha": "18/09/2025",
+      "Series": "C70",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 5608.19,
+      "Observaciones": "Ajustes adicionales indicados en Cambios."
+    }, 
+    {
+      "Orden": "3",
+      "Fecha": "03/10/2025",
+      "Series": "GS-82RT",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 7143.32,
+      "Observaciones": "Ajustes adicionales indicados en Cambios."
+    }, 
+  ]
+}

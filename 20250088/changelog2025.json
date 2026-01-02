@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0088",
+  "Codigo": "2025-0088",
+  "Referencia": "",
+  "Cliente": 5044,
+  "Cambios": [
+    {
+      "22/04/2025": "In via email. Recalcular Presupuesto 2025-0121 de AFix.",
+      "23/04/2025" : "Enviada oferta desde pedidos@"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "23/04/2025",
+      "Series": "Cancela corredera y practicable",
+      "Acabado": "RAL 7022 Texturado",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2052.18,
+      "Observaciones": "Recalculo de presupuesto ya enviado en Febrero 2025. Preusp. 0121 de AFix."
+    }
+  ]
+}

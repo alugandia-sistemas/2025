@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0100",
+  "Codigo": "2025-0100",
+  "Referencia": "",
+  "Cliente": 4128,
+  "Cambios": [
+    {
+      "05/05/2025": "In via email",
+      "06/05/2025" : "INVENT Domo80. C2 eliminar cierres (30542) y gancho (30677 y 30678), añadir manetas (32156, 32157); C3 eliminar cierres (30452) y ganchos de cierre (30677,30678), añadir manetas (32156, 32157).",
+      "06/05/2025" : "Enviada oferta a cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "06/05/2025",
+      "Series": "Domo 80 perimetral cruce recto",
+      "Acabado": "RAL 7016 Text.",
+      "Descuentos": 35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1277.17,
+      "Observaciones": ""
+    }
+  ]
+}

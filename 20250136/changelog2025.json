@@ -1,0 +1,25 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0136",
+  "Codigo": "2025-0136",
+  "Referencia": "Algemessí",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "04/07/2025": "In via email. Decor corredera con fijo, Ref. Algemessí. Para Ana Pastor."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 760,
+      "Observaciones": ""
+    }
+  ]
+}

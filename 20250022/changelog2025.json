@@ -1,0 +1,39 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0022",
+  "Codigo": "2025-0022",
+  "Referencia": "",
+  "Cliente": 2096,
+  "Cambios": [
+    {
+      "03/02/2025": "In via whatsapp de Oscar. Calcular precio, está aprobado.",
+      "03/02/2025" : "Enviada oferta email y whatsapp.",
+      "18/02/2025" : "Confirmado PEDIDO. Cambia guía a 35008."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "03/02/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Blanco Mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 438,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "2",
+      "Fecha": "18/02/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Blanco Mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 460,
+      "Observaciones": "Guía 35008."
+    },
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0177",
+  "Codigo": "2025-0177",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "15/09/2025": "In via email. Decor corredera, parece guía techo. Medidas máximas sobrepasadas (Al: 2,60, An:1,50).",
+      "16/09/2025": "Calculada oferta, guía 3m a techo, medidas máximas Al: 2,5m y An: 1,2m.",
+      "16/09/2025": "Recalculada después de conversacion con cliente. Guia oculta desmontable 1C."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "16/09/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 811.96,
+      "Observaciones": ""
+    }
+  ]
+}

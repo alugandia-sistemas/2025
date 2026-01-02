@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0150",
+  "Codigo": "2025-0150",
+  "Referencia": "",
+  "Cliente": 12508,
+  "Cambios": [
+    {
+      "22/07/2025": "In via email.",
+      "22/07/2025" : "Enviada oferta a cliente. Duritia ESPECIAL +5% en precios.",
+      "22/07/2025" : "Cliente llama preguntando por disponibilidad e la guía, y por fotos/ejemplos del montaje."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "22/07/2025",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1391.10,
+      "Observaciones": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0017",
+  "Codigo": "2025-0017",
+  "Referencia": "INVENT corredera exterior con lama 8132.",
+  "Cliente": 12529,
+  "Cambios": [
+    {
+      "22/01/2025": "In via email. Invent en toda regla de Ernesto y Cerraj. Uni2.",
+      "30/01/2025" : "Comercial se lleva listado de material con precios, creado listado limpio (20250017_matanalysis_netos_c2.pdf)"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "29/01/2025",
+      "Series": "Domo Mallorquina con lama 8132",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -37,
+      "Perfiles": 680.81,
+      "Accesorios": 92.06,
+      "Perfiles neto": 0.0,
+      "Total neto": 772.87,
+      "Observaciones": "Lama 8132 con mallorquina corredera ext."
+    }
+  ]
+}

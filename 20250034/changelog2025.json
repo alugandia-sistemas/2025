@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0034",
+  "Codigo": "2025-0034",
+  "Referencia": "Geraldine",
+  "Cliente": 10025,
+  "Cambios": [
+    {
+      "23/01/2025": "In via email. Email perdido en info@alugandia",
+      "14/02/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "14/02/2025",
+      "Series": "Decor corredera 1H",
+      "Acabado": "Plata Mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 453.17,
+      "Observaciones": "Guía 35008 a pared. Se pide guía de 3m, y 1m se quedará en casa."
+    }
+  ]
+}

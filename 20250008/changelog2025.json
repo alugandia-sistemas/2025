@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0008",
+  "Codigo": "2025-0008",
+  "Referencia": "San Nicolau",
+  "Cliente": 2096,
+  "Cambios": [
+    {
+      "15/01/2025": "In via whatsapp a Carmen. Decor corredera para hueco en buhardilla.",
+      "16/01/2025" : "Oscar visita Alugandia y se decide la solución con él.",
+      "03/02/2025" : "Oscar confirma pedido."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "16/01/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 956.67,
+      "Observaciones": ""
+    }
+  ]
+}

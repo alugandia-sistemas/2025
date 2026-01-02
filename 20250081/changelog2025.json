@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-00081",
+  "Codigo": "2025-0081",
+  "Referencia": "",
+  "Cliente": 12571,
+  "Cambios": [
+    {
+      "11/04/2025": "In via email",
+      "14/04/2025" : "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "11/04/2025",
+      "Series": "Decor corredera y Fijos",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1408.28,
+      "Observaciones": "1341.22 + 5% = 1408.28. Cliente con +5% adicional en precios."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0067",
+  "Codigo": "2025-0067",
+  "Referencia": "",
+  "Cliente": 1178,
+  "Cambios": [
+    {
+      "27/03/2025": "In via teléfono. Decor con limitación de ancho en un lateral. 2H correderas y 1 Fija.",
+      "31/03/2025" : "Recibido dibujo del cliente. Enviada valoración.",
+      "16/04/2025" : "Confirmado PEDIDO, Ref. Reforma cocina salón. Cambia Cuadrado por Rectangular 80x20 Negro Mate Texturado.",
+      "09/06/2025" : "Servido Pedido a cliente"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "31/03/2025",
+      "Series": "Decor corredera, 2H corredera y 1H fija.",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1371.66,
+      "Observaciones": "Cuadrado 40x2 mm, Tarifa No-Est - 37% dto. cliente en ficha. Cambiadoa Rect. 80x20."
+    }
+  ]
+}

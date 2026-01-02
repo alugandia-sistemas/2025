@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0126",
+  "Codigo": "2025-0126",
+  "Referencia": "",
+  "Cliente": 5150,
+  "Cambios": [
+    {
+      "17/06/2025": "In via email",
+      "18/06/2025" : "Enviada oferta al cliente. RAL 7022 Text. como Lac. No Estandar. Descuento -32% (en ficha)."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "18/06/2025",
+      "Series": "Domo 120RT",
+      "Acabado": "RAL 7022 Text.",
+      "Descuentos": -32,
+      "Perfiles": 5337.58,
+      "Accesorios": 1037.36,
+      "Perfiles neto": 3629.55,
+      "Total neto":4666.91,
+      "Observaciones": ""
+    }
+  ]
+}

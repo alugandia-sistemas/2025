@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0043",
+  "Codigo": "2025-0043",
+  "Referencia": "",
+  "Cliente": 6036,
+  "Cambios": [
+    {
+      "24/02/2025": "In via email.",
+      "25/02/2025" : "Enviada oferta por Felip."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    }
+  ]
+}

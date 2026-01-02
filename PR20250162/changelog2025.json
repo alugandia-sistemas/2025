@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto PR2025-0162",
+  "Codigo": "2025-0162",
+  "Referencia": "Centro FP en Picanya",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "14/08/2025": "In via email. Proyecto Centro FP en Picanya, enviado por Guerola, constructora/promotora.",
+      "03/09/2025": "Enviado proyecto a Llofra, Salvador Llorca, para estudio.",
+      "04/09/2025": "Enviado proyecto a Melchor Mañó, para estudio."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    }
+  ]
+}

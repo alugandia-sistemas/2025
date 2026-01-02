@@ -1,0 +1,39 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0096",
+  "Codigo": "2025-0096",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "30/04/2025": "In via whatsapp. Ref. Roimar Xeresa.",
+      "05/05/2025" : "Enviada oferta a cliente",
+      "27/05/2025" : "Recalcular Decor corredera, 3H ocultas a pared, cambia medidas mínimamente (H de 3000 a 2900) y Color de Blanco mate a Negro mate texturado.",
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "DECOR corredera 3H3C, oculta a obra.",
+      "Acabado": "Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1650.27,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "DECOR corredera 3H3C, oculta a obra.",
+      "Acabado": "Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1702.98,
+      "Observaciones": ""
+    },    
+  ]
+}

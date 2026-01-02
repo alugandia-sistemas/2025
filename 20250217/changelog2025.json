@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0217",
+  "Codigo": "2025-0217",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "5/11/2025": "In via whatsapp. Calcular con 67RT o 85RT Plus o Excelsa. Ver material en stock.",
+      "5/11/2025": "Ver stock en 85RT Plus. Tarifa -50%.",
+      "5/11/2025": "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "5/11/2025",
+      "Series": "Domo 85RT",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -50,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 740.73,
+      "Observaciones": "Precio de stock Alugandia, para liberar inventario."
+    }
+  ]
+}

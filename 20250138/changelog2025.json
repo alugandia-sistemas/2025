@@ -1,0 +1,25 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0138",
+  "Codigo": "2025-0138",
+  "Referencia": "",
+  "Cliente": 12506,
+  "Cambios": [
+    {
+      "09/07/2025": "In via whatsapp. Decor corredera, 2H y 1H, guías ocultas a techo desmontables. Negro mate texturado."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "09/07/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Negro mate Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1336.95,
+      "Observaciones": "DC1 es 834.42 y DC2 es 502.53"
+    }
+  ]
+}

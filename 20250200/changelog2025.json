@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0200",
+  "Codigo": "2025-0200",
+  "Referencia": "",
+  "Cliente": 4128,
+  "Cambios": [
+    {
+      "08/10/2025": "In via email.",
+      "13/10/2025" : "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "13/10/2025",
+      "Series": "67RT",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": -35,
+      "Perfiles": 5620.75,
+      "Accesorios": 1728.24,
+      "Perfiles neto": 5381.72,
+      "Total neto": 0.0,
+      "Observaciones": "RAL Negro Text., Estandar. Tapajuntas 2817."
+    }
+  ]
+}

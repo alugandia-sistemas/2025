@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0110",
+  "Codigo": "2025-0110",
+  "Referencia": "",
+  "Cliente": 4128,
+  "Cambios": [
+    {
+      "15/05/2025": "In via email",
+      "15/05/2025" : "Medidas de P3 no especificadas. Llamo al cliente directamente.",
+      "15/05/2025" : "Enviado al cliente"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "15/05/2025",
+      "Series": "67RT",
+      "Acabado": "RAL 7016 Texturado",
+      "Descuentos": -35,
+      "Perfiles": 3379.89,
+      "Accesorios": 888.07,
+      "Perfiles neto": 2468.63,
+      "Total neto": 3356.70,
+      "Observaciones": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0128",
+  "Codigo": "2025-0128",
+  "Referencia": "",
+  "Cliente": 3063,
+  "Cambios": [
+    {
+      "19/06/2025" : "In via email.",
+      "23/06/2025" : "Enviada oferta",
+      "01/07/2025" : "Comercial Ernesto comenta cambios, después de reunirse con Victor Otero. Junquillo cambia a 2826, acabado cambia a Anod. Inox Brillo repulido, cliente no queire herrajes sólo perfiles, escuadras y juntas.",
+      "02/07/2025" : "Enviada oferta 2.",
+      "10/09/2025" : "Incidencia con junquillo 2806, no clipa. Se propone solución de Alumed (junquillo 018412), que cliente nos devuelva 6 barras."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "23/06/2025",
+      "Series": "Domo 50P",
+      "Acabado": "Anod. Inox",
+      "Descuentos": -35,
+      "Perfiles": 1627.99,
+      "Accesorios": 274.89,
+      "Perfiles neto": 1058.19,
+      "Total neto": 1333.08,
+      "Observaciones": "Desc. 35%, tiene 40% en ficha (debería cambiarse ¿?)."
+    },
+    {
+      "Orden": "2",
+      "Fecha": "01/06/2025",
+      "Series": "Domo 50P",
+      "Acabado": "Anod. Inox brillo repulido",
+      "Descuentos": -33,
+      "Perfiles": 1565.98,
+      "Accesorios": 266.54,
+      "Perfiles neto": 1049.21,
+      "Total neto": 1315.75,
+      "Observaciones": "Desc. 33%."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0178",
+  "Codigo": "2025-0178",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "16/09/2025": "In via email. Oferta urgente, el cliente se habia despistado.",
+      "16/09/2025": "Calculada oferta con Plegable Domo, C-70, V-94. Panel 2000x1000x20 Ral 7016 a 68.26 €/m",
+      "16/09/2025": "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "16/09/2025",
+      "Series": "Domo plegable, V-94, C-70",
+      "Acabado": "Lacado RAL 7016 (Estandar)",
+      "Descuentos": -35,
+      "Perfiles": 1730.75,
+      "Accesorios": 715.85,
+      "Perfiles neto": 1124.99,
+      "Total neto": 1840.84,
+      "Observaciones": ""
+    }
+  ]
+}

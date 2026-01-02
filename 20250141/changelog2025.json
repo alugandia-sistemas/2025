@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0141",
+  "Codigo": "2025-0141",
+  "Referencia": "",
+  "Cliente": 3063,
+  "Cambios": [
+    {
+      "11/07/2025": "In via email",
+      "15/07/2025" : "Enviada oferta a cliente.",
+      "31/07/2025" : "Ofeta aceptada. PEDIDO. Cliente quiere confirmación de que puede reaprovechar vidrios existentes."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "15/07/2025",
+      "Series": "Domo 50P",
+      "Acabado": "Anod. Inox",
+      "Descuentos": -33,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1220.33,
+      "Observaciones": "Medidas de barra de 7m de 3701, 3702 y 3703. Se puede descontar precio de Zócalo, vender 2m que necesita el proyecto."
+    }
+  ]
+}

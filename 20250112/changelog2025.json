@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0112",
+  "Codigo": "2025-0112",
+  "Referencia": "",
+  "Cliente": 5098,
+  "Cambios": [
+    {
+      "19/05/2025": "In via en mano. Comercial pide marco 4340 85RT Plus. Sacar precios.",
+      "19/05/2025" : "Perfiles no dados de alta en Winp. 4312 y 4340. 4312 precio calculado con 4300 en Winp., 4340 precio calculado con 4308 en Winp. 4312 39'27€ , 4340 28'08€ en Lac. Madera.",
+      "20/05/2025" : "Enviada oferta al cliente",
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "20/05/2025",
+      "Series": "85RT PLus, 67RT",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 13708.30,
+      "Accesorios": 1707.65,
+      "Perfiles neto": 8636.23,
+      "Total neto": 10357.88,
+      "Observaciones": ""
+    }
+  ]
+}

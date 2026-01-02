@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto",
+  "Codigo": "2025-0234",
+  "Referencia": "",
+  "Cliente": "Aluminis Jaume",
+  "Cambios": [
+    {
+      "17/12/2025": "In via whatsapp. Serie similar a Itesal IT-72 HO RPT, IT-71 EVOPlus 3.",
+      "17/12/2025": "Calculado con 67RT-HO practicable, y 67RT-CO corredera.",
+      "22/12/2025": "Enviada oferta a cliente. 35% descuento perfiles."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "18/12/2025",
+      "Series": "67RT-HO, 67RT-CO",
+      "Acabado": "Lac. Negro Forja",
+      "Descuentos": -35,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3495.17,
+      "Observaciones": "67RT-HO es 1296.49 €, 67RT-CO es 2198.68 € "
+    }
+  ]
+}

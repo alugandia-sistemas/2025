@@ -1,0 +1,56 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0053",
+  "Codigo": "2025-0053",
+  "Referencia": "",
+  "Cliente": 12506,
+  "Cambios": [
+    {
+      "10/03/2025": "In via en persona. Visita a Villalonga W11. Presbitero Giner, 32, vivienda de 3 plantas, Bricosafor Gandia.",
+      "12/03/2025" : "Enviadas propuestas (dibujos) de cerramiento a Diego Ecoventanas.",
+      "26/03/2025" : "Recibidas fotos de huecos, para propuestas 3D y valoraciones.",
+      "26/03/2025" : "Enviada oferta P1-Juan",
+      "27/03/2025" : "Enviada oferta P3-Victor",
+      "02/04/2025" : "Enviada oferta P2-Gemma.",
+      "17/06/2025" : "Cliente (Sebas) pregunta sobre acabado en Lac. Madera, de P2-Gemma.",
+      "23/06/2025" : "Consulta del cliente (Sebas), sobre montaje de P2 Gemma."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "26/03/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2071.28,
+      "Observaciones": "P1 Juan"
+    },
+    {
+      "Orden": "1",
+      "Fecha": "01/04/2025",
+      "Series": "Decor practicable",
+      "Acabado": "Lacado Madera",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1650.75,
+      "Observaciones": "P2 Gemma"
+    },
+    {
+      "Orden": "1",
+      "Fecha": "27/03/2025",
+      "Series": "Decor practicable",
+      "Acabado": "Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1721.96,
+      "Observaciones": "P3 Victor. P3-SALON es 970.24€ y P3-BAÑO es 751.72€."
+    },        
+  ]
+}

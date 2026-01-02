@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0044",
+  "Codigo": "2025-0044",
+  "Referencia": "Victor Tecnitot",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "25/02/2025": "In via email",
+      "25/02/2025" : "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "25/02/2025",
+      "Series": "Decor corredera, fijos",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2614.19,
+      "Observaciones": "Cuadrado de 50, 2 barras incluidas en P4. Total P! es 748.67, F2 es 220.16, F3 es 448.74, P4 es 1078.07+118.55. "
+    }
+  ]
+}

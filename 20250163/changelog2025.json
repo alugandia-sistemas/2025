@@ -1,0 +1,41 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0163",
+  "Codigo": "2025-0163",
+  "Referencia": "",
+  "Cliente": 1082,
+  "Cambios": [
+    {
+      "02/09/2025": "In via en mano. Reparación mallorquina Pino nudo.",
+      "03/09/2025": "Descuento especial, 45%",
+      "04/09/2025": "Calculada oferta. Dudas: Lac. Madera pino nudo, averiguar cual es. Accesorios, reutiliza algo de la reparación ?.",
+      "05/09/2025": "Calculada oferta ajustada por Ismael."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "03/09/2025",
+      "Series": "Mallorquina",
+      "Acabado": "Lac. Madera pino nudo",
+      "Descuentos": -45,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 411.41,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "05/09/2025",
+      "Series": "Mallorquina",
+      "Acabado": "Lac. Madera pino nudo",
+      "Descuentos": -45,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 567.41,
+      "Observaciones": ""
+    },
+
+  ]
+}

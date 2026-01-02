@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0052",
+  "Codigo": "2025-0052",
+  "Referencia": "Jeny",
+  "Cliente": 10025,
+  "Cambios": [
+    {
+      "03/03/2025": "In via email. Decor correderas con guía empotrada, decor practicable 1H.",
+      "04/03/2025":"Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "03/03/2025",
+      "Series": "Decor corredera, abatible",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2482.07,
+      "Observaciones": "P1 es 580.69, P2 es 751.72, P3 es 1149.66"
+    }
+  ]
+}

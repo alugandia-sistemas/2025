@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0040",
+  "Codigo": "2025-0040",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "20/02/2025": "In via email",
+      "21/02/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "20/02/2025",
+      "Series": "Decor practicable y fijo",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1191.46,
+      "Observaciones": "10% adicional a este cliente en Decor Practicables."
+    }
+  ]
+}

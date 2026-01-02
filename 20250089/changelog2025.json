@@ -1,0 +1,36 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0089",
+  "Codigo": "2025-0089",
+  "Referencia": "E4-56 Ana Pastor",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "23/04/2025": "In via email.",
+      "24/04/2025" : "Enviada oferta",
+      "15/09/2025" : "Cliente pide precio en RAL 9002 o similar. Clienta final insiste en acabado Gris.",
+      "11/11/2025" : "Entra cinta doble cara de Unecol para embellecedor 20x10.",
+      "18/11/2025" : "Entra material Lacado de varios Lacadores.",
+      "18/11/2025" : "INCIDENCIA no detectada cuando ha entrado el material en Alugandia. Mal lacado y golpeado",
+      "20/11/2025" : "Entra cinta doble cara de Trayma, para embellecedor 20x10. Aplicado en 3b x 6,5 m.",
+      "02/12/2025" : "Cliente se equivoca cortano. Reponer barras, lacadas RAL 9002. Pedirlas a Adinor.",
+      "03/12/2025" : "En tránsito, 3 m perfil horizontal Kit Hoja Magnética 35003 desde Adinor. En CSA.",
+      "10/12/2025" : "Esperando confirmación de entrega desde Adinor. PEdido ref. 24619.",
+      "17/12/2025" : "Esperando confirmación de entrega desde Adinor. PEdido ref. 24619.",
+      "17/12/2025" : "Entra paquete de Adinor a las 11:00."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "23/04/2025",
+      "Series": "Decor corredera",
+      "Acabado": "RAL 9002",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 967.56,
+      "Observaciones": "Calculado con RAL 7035, similar a E4-56 que pide cliente final (Ana Pastor). A falta de decidir RAL."
+    }
+  ]
+}

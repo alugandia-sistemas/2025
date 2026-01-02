@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0075",
+  "Codigo": "2025-0075",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "08/04/2025": "In via email.",
+      "09/04/2025" : "Oferta enviada. Calculada y enviada oferta de Winperfil."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "09/04/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1740.93,
+      "Observaciones": "DC1 es 664.70 y DC2 es 1076.23."
+    }
+  ]
+}

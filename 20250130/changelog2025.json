@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0130",
+  "Codigo": "2025-0130",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "26/06/2025": "In via email. Plegable 5H, LBN, con cerradura (30€ aprox.)",
+      "26/06/2025" : "Enviada oferta a Jaime. Falta techo que calcula él."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "26/06/2025",
+      "Series": "Domo Plegable acristalada",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -40,
+      "Perfiles": 898.92,
+      "Accesorios": 344.11,
+      "Perfiles neto": 539.35,
+      "Total neto": 883.40,
+      "Observaciones": "Añadida cerradura a mano en Accesorios."
+    }
+  ]
+}

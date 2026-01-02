@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0084",
+  "Codigo": "2025-0084",
+  "Referencia": "",
+  "Cliente": 6071,
+  "Cambios": [
+    {
+      "14/04/2025": "In via email",
+      "16/04/2025" : "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "16/04/2025",
+      "Series": "V-94",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": 32,
+      "Perfiles": 1492.48,
+      "Accesorios": 425.49,
+      "Perfiles neto": 1014.89,
+      "Total neto": 1440.38,
+      "Observaciones": "Calculadas ventanas sin gomas de acristalar, ni salida de aguas."
+    }
+  ]
+}

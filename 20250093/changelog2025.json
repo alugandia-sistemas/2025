@@ -1,0 +1,86 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0093",
+  "Codigo": "2025-0093",
+  "Referencia": "",
+  "Cliente": 1178,
+  "Cambios": [
+    {
+      "25/04/2025": "In via visita obra Viernes 25/04. Reforma piso en Valencia, Artes Gráficas 4.",
+      "25/04/2025" : "Isidoro ejecuta fabric. e instalación. Al cliente final, Mª Dolores David y Pablo Chinchilla, le facturamos material / aluminio.",
+      "29/04/2025" : "Pablo comenta de aumentar calidad de habitaciones interiores (Habit. 1 y Habit. 2), que dan a patio de manzana. Valorar opción con 77RT ECO, acrist. máximo 59 mm (2806). 67RT acrist. máximo 49 mm (2806). Winperfil vidrio 8/20/6+6",
+      "06/05/2025" : "Winperfil 1378 es LBN, Opción 67RT. 1379 es LBN, opción 67RT y 77RT. 1380 es Bicolor.",
+      "06/05/2025" : "67RT-CO acrist. máx. 30 mm.",
+      "12/05/2025" : "Cambia proyecto. Cocina no se derriba ni se acristala lavadero.",
+      "13/05/2025" : "Enviadas ofertas. Cliente (Pablo) confirma Pedido, con cambio: Cocina-3 de fijo a OB. PEDIDO es Oferta 1379 (Bicolor) y Oferta 1392-2 (Blanco).",
+      "28/05/2025" : "Despiste. Confirmación de Pedido. Entrega W",
+      "04/06/2025" : "Cambiar marco 4200 a 4205, como comentado en obra.",
+      "09/06/2025" : "Recalculado precio de cambio de marco a 4205. Enviada factura a cuenta, para primer pago.",
+      "18/07/2025" : "Cocina-2 es Apert. Exterior. Se envía a Isidoro Brines a barra apert. ext. balconera (3629) y 1 apert. ext. ventana (3687).",
+      "22/07/2025" : "Faltan accesorios del pedido de Bicolor. 30202, tope de unión" ,
+      "24/07/2025" : "Entra herraje de las 9 ventanas. De Valgom, marca Stac. Se entrega a las 14:00, Jose con su coche a Ángel.",
+      "30/07/2025" : "Isidoro va a Valencia, a instalar ventanas."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "2",
+      "Fecha": "12/05/2025",
+      "Series": "Domo 67RT",
+      "Acabado": "Blanco",
+      "Descuentos": -35,
+      "Perfiles": 2264.47,
+      "Accesorios": 919.63,
+      "Perfiles neto": 1471.91,
+      "Total neto": 2391.54,
+      "Observaciones": "OPCIÓN 1. 67RT resto de la casa"
+    },
+    {
+      "Orden": "2",
+      "Fecha": "12/05/2025",
+      "Series": "Domo 67RT, Domo 77RT Eco",
+      "Acabado": "Blanco",
+      "Descuentos": -35,
+      "Perfiles": 2645.05,
+      "Accesorios": 901.60,
+      "Perfiles neto": 1719.28,
+      "Total neto": 2391.54,
+      "Observaciones": "OPCIÓN 2. Resto de la casa, con 67RT y 77RTEco en Habit. 1 y Habit. 2, 67RT resto de la casa"
+    },    
+    {
+      "Orden": "2",
+      "Fecha": "12/05/2025",
+      "Series": "Domo 67RT, 67RT-CO",
+      "Acabado": "Bicolor (Lac. Blanco int. / Anod. Bronce ext.)",
+      "Descuentos": -35,
+      "Perfiles": 1688.57,
+      "Accesorios": 249.99,
+      "Perfiles neto": 1097.57,
+      "Total neto": 1347.56,
+      "Observaciones": "Salón. 67RT-CO y 67RT bicolor que van en el salón."
+    },
+    {
+      "Orden": "3",
+      "Fecha": "14/05/2025",
+      "Series": "Domo 67RT",
+      "Acabado": "Blanco",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    },  
+    {
+      "Orden": "3",
+      "Fecha": "14/05/2025",
+      "Series": "Domo 67RT, 67RT-CO",
+      "Acabado": "Bicolor (Lac. Blanco int. / Anod. Bronce ext.)",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": "Recalculado con marco 67RT-CO 4205."
+    },         
+  ]
+}

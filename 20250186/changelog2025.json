@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0186",
+  "Codigo": "2025-0186",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "25/09/2025": "In via whatsapp. Decor practicable, 3m altura y panel fenólico o similar. Enviada petición a Adinor.",
+      "29/09/2025": "Recibida oferta de Adinor.",
+      "01/10/2025": "Enviada oferta a cliente. PVP=Adinor * 1,5"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "01/10/2025",
+      "Series": "Sky Pivotante",
+      "Acabado": "Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1279.81,
+      "Observaciones": "Medidas máximas sobrepasadas. No se hace responsable el fabricante."
+    }
+  ]
+}

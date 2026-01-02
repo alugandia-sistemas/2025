@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios de la oferta 2025-0175",
+  "Codigo": "2025-0175",
+  "Referencia": "",
+  "Cliente": 3118,
+  "Cambios": [
+    {
+      "12/09/2025": "In via email",
+      "15/09/2025": "Opción perfil goterón, tenemos en casa. Opción 2, chapa cortada y plegada. Lacado todo RAL 7016 Text.",
+      "15/09/2025": "Cliente quiere opción con chapa plegada.",
+      "16/09/2025": "Felip envia oferta. Confirmado Pedido."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 75.50,
+      "Observaciones": ""
+    }
+  ]
+}

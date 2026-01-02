@@ -1,0 +1,25 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0016",
+  "Codigo": "2025-0016",
+  "Referencia": "Ángela Calabuig en Platja de Gandia.",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "22/01/2025": "In via email."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "22/01/2025",
+      "Series": "Decor corredera y fijo",
+      "Acabado": "Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 955.27,
+      "Observaciones": "Guía empotrada desmontable de 3 m."
+    }
+  ]
+}

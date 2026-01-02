@@ -1,0 +1,39 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0151",
+  "Codigo": "2025-0151",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "23/07/2025": "In via whatsapp",
+      "23/07/2025" : "Enviado email al cliente.",
+      "23/07/2025" : "Recalculado sin tapajuntas, sin junta de acristalar."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "23/07/2025",
+      "Series": "",
+      "Acabado": "Bicolor (LBN int. / Anod. Bronce grata ext.)",
+      "Descuentos": -35,
+      "Perfiles": 2361.10,
+      "Accesorios": 581.72,
+      "Perfiles neto": 1535.7,
+      "Total neto": 2117.09,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "23/07/2025",
+      "Series": "",
+      "Acabado": "Bicolor (LBN int. / Anod. Bronce grata ext.)",
+      "Descuentos": -35,
+      "Perfiles": 2278.64,
+      "Accesorios": 580.29,
+      "Perfiles neto": 1481.12,
+      "Total neto": 2061.41,
+      "Observaciones": "Mismo cálculo, sin tapajuntas 2817, sin junta de acristalar 31073 (-36.81€), sin Goterón. TOTAL Nuevo = 2024.60 "
+    },    
+  ]
+}

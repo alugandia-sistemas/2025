@@ -1,0 +1,42 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0078",
+  "Codigo": "2025-0078",
+  "Referencia": "",
+  "Cliente": 12508,
+  "Cambios": [
+    {
+      "10/04/2025": "In via email y llamada de Benjamí de Duritia.",
+      "11/04/2025" : "Enviada oferta",
+      "11/04/2025" : "Cliente pide oferta sin 35081, carcasa de guía empotrada desmontable. Dice que ya tiene un trozo en su taller.",
+      "14/04/2025" : "Enviada oferta 2",
+      "22/04/2025" : "Cliente confirma PEDIDO.",
+      "23/04/2025" : "Indalsu confirma W20."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "11/04/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1817.56,
+      "Observaciones": "Aplicado +5% adicional a Duritia."
+    },
+    {
+      "Orden": "2",
+      "Fecha": "11/04/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1513.43,
+      "Observaciones": "Sin casquillo superior. Aplicado +5% adicional a Duritia."
+    },    
+  ]
+}

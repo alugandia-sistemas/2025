@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0071",
+  "Codigo": "2025-0071",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "01/04/2025" : "In via email. PEDIDO en RAL 7016 TEXT.",
+      "03/04/2025" : "Enviado cálculo material del Pedido a Jaime."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "03/04/2025",
+      "Series": "Domo 67RT, Domo 125RT",
+      "Acabado": "RAL 7016 TEXT.",
+      "Descuentos": -35,
+      "Perfiles": 8086.91,
+      "Accesorios": 2926.06,
+      "Perfiles neto": 5256.49,
+      "Total neto": 8182.55,
+      "Observaciones": ""
+    }
+  ]
+}

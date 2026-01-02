@@ -1,0 +1,51 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0007",
+  "Codigo": "2025-0007",
+  "Referencia": "",
+  "Cliente": 12506,
+  "Cambios": [
+    {
+      "15/01/2025": "In via whatsapp.",
+      "15/01/2025" : "Enviado Cálculo 1.",
+      "15/01/2025" : "Cálculo 2, medidas correctas de V02.",
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "15/01/2025",
+      "Series": "Decor corredera, fijo",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2808.48,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "2",
+      "Fecha": "15/01/2025",
+      "Series": "Decor corredera, fijo",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3505.15,
+      "Observaciones": "Medidas de V02 corregidas. Precio V01: 391.65 €/ud x 2 uds = 783.30 €; Precio V02: 680.46 €/ud x 4 uds =  2721.85 €."
+    },
+    {
+      "Orden": "2",
+      "Fecha": "15/01/2025",
+      "Series": "Decor corredera, fijo",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3371.62,
+      "Observaciones": "Recalcular con -10% de desc. adicional en V02 (el cliente percibirá un -3.5% debido al precio erróneo de Cálculo2), y un -5% en V01. TOTAL final con descuentos aplicados es V01: 372.07 €/ud x 2 uds = 744.14 €; V02: 656.87 €/ud x 4 uds = 2627.48 €."      
+    }
+  ]
+}

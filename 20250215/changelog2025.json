@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0215",
+  "Codigo": "2025-0215",
+  "Referencia": "Balcones Golf La Sella",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "31/10/2025": "In via email. 15 viviendas en La Sella.",
+      "05/11/2025": "Entra documentación del proyecto, via whatsapp.",
+      "06/11/2025": "DUDAS: B-2,B-3,B-4,B-5,B-6,B-7 calculadas con D125RT Elevable + fijo lateral. 67RT-CO es hasta 120 Kgrs. por hoja. HErraje elevable a 170 €/hoja.",
+      "06/11/2025": "RAL 7016 como Lac. Estandar."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "6/11/2025",
+      "Series": "Domo 67RT-CO, 125RT elevable, 67RT",
+      "Acabado": "Lac. Estandar",
+      "Descuentos": -40,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 62622.59,
+      "Observaciones": ""
+    }
+  ]
+}

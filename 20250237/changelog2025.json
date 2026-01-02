@@ -1,0 +1,29 @@
+{
+  "Info": "Archivo de cambios del proyecto",
+  "Codigo": "2025-0237",
+  "Referencia": "",
+  "Cliente": "Melchor Maño",
+  "Cambios": [
+    {
+      "23/12/2025": "In via visita a Edificio Calmo el 23/12. Melchor envía mediciones ese mismo día.",
+      "23/12/2025": "Proyecto son 9 plantas, 2 apartamentos por planta, 2 ventanas por apartamento. 36 ventanas. PRIMERA FASE son 3 primeras plantas (12 ventanas)",
+      "23/12/2025": "Calculado con Domo 85RT Plus. Lac. Blanco con tratamiento seaside",
+      "02/01/2026": "Enviada oferta a Jaime.",
+      "02/01/2026": "Recalcular corrigiendo: eliminar juntaacrist. 31073, corregir 14b x 6.3 m de 31200."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "23/12/2025",
+      "Series": "Domo 85RT Plus",
+      "Acabado": "LBN Seaside",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 4378.11,
+      "Observaciones": "4487.91 - 109.8 (31073) = 4378.11. PVP2, precios Jaime."
+    }
+  ]
+}

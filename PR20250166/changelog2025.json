@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0166",
+  "Codigo": "2025-0166",
+  "Referencia": "Hotel Bilbaino en Benidorm",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "04/09/2025": "In via email. Oferta desde Indalsu.",
+      "08/09/2025": "Recibido estudio de Indalsu."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    }
+  ]
+}

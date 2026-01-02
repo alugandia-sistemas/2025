@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0185",
+  "Codigo": "2025-0185",
+  "Referencia": "Juan Jose",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "25/09/2025": "In via whatsapp Jaime.",
+      "26/09/2025": "Enviada oferta email."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "26/09/2025",
+      "Series": "67RT, 67RT-CO",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -37,
+      "Perfiles": 4599.40,
+      "Accesorios": 976.03,
+      "Perfiles neto": 2989.61,
+      "Total neto": 3965.64,
+      "Observaciones": ""
+    }
+  ]
+}

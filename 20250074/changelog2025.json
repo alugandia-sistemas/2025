@@ -1,0 +1,31 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0074",
+  "Codigo": "2025-0074",
+  "Referencia": "",
+  "Cliente": 10023,
+  "Cambios": [
+    {
+      "08/04/2025": "In via en mano. Ernesto a través de Salva. Domo 125RT, RAL 7016.",
+      "09/04/2025" : "Entregado a comercial Alicante.",
+      "15/04/2025" : "Comercial envía dibujos.",
+      "25/04/2025" : "Comercial entrega dibujos de cálculo 2. C2 es Galandage",
+      "07/05/2025" : "Comentado con cliente directamente. C2 es invento con marco 2640, sin marcos laterales. Calculado material, cliente quiere o material (perfiles y escuadras sin herraje) o ventanales fabricados para acristalar.",
+      "08/05/2025" : "Pedido en marcha de perfiles y escuadrs, sin herrajes elevables."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "07/05/2025",
+      "Series": "Domo 125RT",
+      "Acabado": "RAL 7016",
+      "Descuentos": -37,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 4013.68,
+      "Observaciones": "Precio total 4013.68"
+    },
+    
+  ]
+}

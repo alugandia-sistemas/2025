@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0069",
+  "Codigo": "2025-0069",
+  "Referencia": "",
+  "Cliente": 2096,
+  "Cambios": [
+    {
+      "27/03/2025": "In via whatsapp",
+      "28/03/2025" : "Enviada oferta",
+      "20/05/2025" : "Entra oferta con cambios. Se genera nuevo proyecto, 2025-0114."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "28/03/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 652.76,
+      "Observaciones": ""
+    }
+  ]
+}

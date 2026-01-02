@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0056",
+  "Codigo": "2025-0056",
+  "Referencia": "Pablo Moreno",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "11/03/2025": "In via email.",
+      "11/03/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "11/03/2025",
+      "Series": "Decor corredera guía empotrada.",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3286.47,
+      "Observaciones": "P1 es 2134.75, P2 es 1151.72"
+    }
+  ]
+}

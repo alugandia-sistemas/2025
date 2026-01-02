@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0109",
+  "Codigo": "2025-0109",
+  "Referencia": "",
+  "Cliente": 5106,
+  "Cambios": [
+    {
+      "14/05/2025": "In via email a pedidos@alugandia.es",
+      "14/04/2025" : "Enviado cálculo de Decor formato Excel a Felip.",
+      "14/05/2025" : "Enviada oferta al cliente. Felip envía."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 852.22,
+      "Observaciones": "Decor corredera + perfiles extra para un INVENT del comercial de VLC."
+    }
+  ]
+}

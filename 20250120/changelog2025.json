@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0120",
+  "Codigo": "2025-0120",
+  "Referencia": "",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "28/05/2025": "In via whatsapp",
+      "30/05/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "Domo 67RT, 67RT-CO",
+      "Acabado": "Lac. Madera",
+      "Descuentos": -35,
+      "Perfiles": 9276.28,
+      "Accesorios": 2126.71,
+      "Perfiles neto": 6029.58,
+      "Total neto": 8156.29,
+      "Observaciones": ""
+    }
+  ]
+}

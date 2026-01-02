@@ -1,0 +1,39 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0028",
+  "Codigo": "2025-0028",
+  "Referencia": "",
+  "Cliente": 4128,
+  "Cambios": [
+    {
+      "06/02/2025": "In via email. Es 2024-0262-3, Cálculo 3.",
+      "06/02/2025" : "Recalculado con precios actualizados. Enviada oferta 1329-2 a comercial.",
+      "06/02/2025" : "Recalculado, con cambios V9 y V10, OB 1 Hoja. 1329-3",
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "06/02/2025",
+      "Series": "Domo 60RT",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -35,
+      "Perfiles": 3830.58,
+      "Accesorios": 1527.64,
+      "Perfiles neto": 2489.88,
+      "Total neto": 4017.52,
+      "Observaciones": "Cálculo 1, oferta 1329-2, con tapajuntas 2817. Comercial pedía tapajuntas de AJ, se ha calculado con 2817 por velocidad de respuesta."
+    },
+       {
+      "Orden": "2",
+      "Fecha": "06/02/2025",
+      "Series": "Domo 60RT",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": -35,
+      "Perfiles": 3562.07,
+      "Accesorios": 1505.43,
+      "Perfiles neto": 2315.34,
+      "Total neto": 3820.77,
+      "Observaciones": "Cálculo 1, oferta 1329-3, con tapajuntas 2817. Cambiadas V9 y V10 a OB 1 H."
+    },
+  ]
+}

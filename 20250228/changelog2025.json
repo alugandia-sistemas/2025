@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0228",
+  "Codigo": "2025-0228",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "20/11/2025": "In via en mano / email.",
+      "21/11/2025": "Calcular con precios netos (Jaime). Equivalencias Mallorquina Sopena con Perla Naco 70.",
+      "24/11/2025": "Recalculado con medidas de barra que marca Jaime, y precios que faltaban de accesorios.",
+      "24/11/2025": "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "24/11/2025",
+      "Series": "Mallorquina Perla-70, lama regulable",
+      "Acabado": "Lacado Blanco",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 952.27,
+      "Observaciones": ""
+    }
+  ]
+}

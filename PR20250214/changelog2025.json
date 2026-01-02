@@ -1,0 +1,53 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0214",
+  "Codigo": "2025-0214",
+  "Referencia": "Vivienda en Chiva, Urb. Carambolo.",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "30/10/2025": "In via email administracion@alugandia",
+      "27/11/2025": "Cálculo de material listo. Mano de obra + vidrios de Isidoro Brines. Calculado con Tapajuntas.",
+      "27/11/2025": "Material V94 descuento Perfiles -20%.",
+      "27/11/2025": "C-70 desc. perfiles -20%.",
+      "27/11/2025": "GS-82RT, desc. perfiles -20%. Marco 82001, hoja 82063, cruce minimal. 82275.",      
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "27/11/2025",
+      "Series": "V-94",
+      "Acabado": "Lac. Estandar (RAL 8007 Básico Sopena)",
+      "Descuentos": -20,
+      "Perfiles": 2077.38,
+      "Accesorios": 874.16,
+      "Perfiles neto": 1661.90,
+      "Total neto": 2536.06,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "27/11/2025",
+      "Series": "C-70",
+      "Acabado": "Lac. Estandar (RAL 8007 Básico Sopena)",
+      "Descuentos": -20,
+      "Perfiles": 1015.23,
+      "Accesorios": 260.74,
+      "Perfiles neto": 812.19,
+      "Total neto": 1072.93,
+      "Observaciones": ""
+    },    
+    {
+      "Orden": "1",
+      "Fecha": "27/11/2025",
+      "Series": "GS-82RT",
+      "Acabado": "Lac. Estandar (RAL 8007 Básico Sopena)",
+      "Descuentos": -20,
+      "Perfiles": 0,
+      "Accesorios": 0,
+      "Perfiles neto": 0,
+      "Total neto": 0,
+      "Observaciones": ""
+    },    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0094",
+  "Codigo": "2025-0094",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "29/04/2025" : "In via email. Ref. Quatretonda.",
+      "30/04/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "30/04/2025",
+      "Series": "Decor corredera oculta a pared.",
+      "Acabado": "Negro texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1310.67,
+      "Observaciones": "1 Chapa 2000x1000 en Negro Text. incluida en precio."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0154",
+  "Codigo": "2025-0154",
+  "Referencia": "",
+  "Cliente": 12571,
+  "Cambios": [
+    {
+      "25/07/2025": "In via whatsapp. Marco 3701 a 7m, Hoja 3702 a 6'5m.",
+      "29/07/2025" : "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "29/07/2025",
+      "Series": "Domo 50P",
+      "Acabado": "Lac. Negro mate",
+      "Descuentos": -35,
+      "Perfiles": 548.12,
+      "Accesorios": 145.48,
+      "Perfiles neto": 356.28,
+      "Total neto": 393.57,
+      "Observaciones": "Zócalo 3705, hay que contar 1,5m. 21'64 €/ml NETO * 1'5 = 32'46€. Descontar de 1 barra 6'5m = 140'65€ NETO. 140'65 - 32'46€ = 108'19€ NETO. TOTAL Neto es 393'57€."
+    }
+  ]
+}

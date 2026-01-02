@@ -1,0 +1,40 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0208",
+  "Codigo": "2025-0208",
+  "Referencia": "Decor corredera, oculta a pared.",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "23/10/2025": "In via el cliente en persona.",
+      "23/10/2025": "Enviada oferta",
+      "02/12/2025": "Oferta 2. Recalcular con fijo pequeño Decor. Enviada a cliente.",
+      "15/12/2025": "Cliente confirma pedido presencialmente. Viene Jesús Lunes 15/12 y lo confirma."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "23/10/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 562.70,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "2",
+      "Fecha": "02/12/2025",
+      "Series": "Decor corredera, fijo",
+      "Acabado": "Lac. Negro Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 748.27,
+      "Observaciones": ""
+    },
+  ]
+}

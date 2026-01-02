@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0176",
+  "Codigo": "2025-0176",
+  "Referencia": "",
+  "Cliente": 4128,
+  "Cambios": [
+    {
+      "15/09/2025": "In via email. Pide precio y plazo de 2 GS82-RT, Anodizado BEB.",
+      "15/09/2025": "Precios Netos pasados por Jaime. Se calcula y envia oferta a Comercial Valencia."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "",
+      "Series": "",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1183.90,
+      "Observaciones": ""
+    }
+  ]
+}

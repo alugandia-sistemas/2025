@@ -1,0 +1,43 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0001",
+  "Codigo": "2025-0001",
+  "Referencia": "67RT, 125RT elevable en Blanco mate",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "07/01/2025": "In via whatsapp. Recalcar Peso máx. 400 Kgrs x hoja en 125RT. Hueco de vidrio de 32 mm.",
+      "08/01/2025" : "Recalcar peso máx. en 120RT es 300 Kgrs.",
+      "20/02/2025" : "Cliente confirma PEDIDO.",
+      "26/05/2025" : "Pedido en marcha, cliente pide concreta material. Reclacular V08 con GS120-RT, 4H con cierre a esquina a 90º, y galandage.",
+      "29/05/2025" : "Calculada valroación final del PEDIDO, con acristalamiento 4/16/4 en DOMO, y 4+4/C/4+4 en GS120-RT.",
+      "23/06/2025" : "Pedido en RAL 9016 Texturado."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "08/01/2025",
+      "Series": "Domo 67RT, Domo 120RT, ",
+      "Acabado": "Lac. Blanco mate (Estandar)",
+      "Descuentos": -35,
+      "Perfiles": 6420.24,
+      "Accesorios": 1162.82,
+      "Perfiles neto": 4173.15,
+      "Total neto": 5371.40,
+      "Observaciones": "Cuadrado de 100 añadido en V01. V08 calculada con D120RT, esquina a 90º y galandage."
+    },
+    {
+      "Orden": "1",
+      "Fecha": "29/05/2025",
+      "Series": "Domo 67RT, GS120-RT, ",
+      "Acabado": "Lac. Blanco mate (Estandar)",
+      "Descuentos": -35,
+      "Perfiles": 0,
+      "Accesorios": 0,
+      "Perfiles neto": 0,
+      "Total neto": 0,
+      "Observaciones": "Cuadrado de 100 añadido en V01. V08 calculada con D120RT, esquina a 90º y galandage. DOMO (V01, V02, V03, V05, V06 y V07) es 3027.74€ y GS120RT (V08) es XXX.YY€"
+    
+    }    
+  ]
+}

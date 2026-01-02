@@ -1,0 +1,62 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0204",
+  "Codigo": "2025-0204",
+  "Referencia": "Centro de belleza en Xàbia",
+  "Cliente": 1002,
+  "Cambios": [
+    {
+      "14/10/2025": "In via whatsapp.",
+      "15/10/2025": "Buscar solución para plegable V7. Fijos fachada en Domo 67RT. Interiorismo Decor correderas. RAL a definir.",
+      "16/10/2025": "Enviada oferta Decor interiores",
+      "22/10/2025": "Enviada oferta plegable Adinor",
+      "29/10/2025": "Cliente pide muestra de guía Decor empotrada 1C.",
+      "31/10/2025": "Planos definitivos del proyecto. Cambian altura de 2'3 m a 2'4 m.",
+      "11/11/2025": "Cliente confirma acabado RAL 1013 MATE. También pide opciones para cristalera fachada, en perfil minimalista.",
+      "11/11/2025": "Recalcular fijo (presup. 1521-2) con perfiles minimalistas. Serie Loft de Galisur.",
+      "20/11/2025": "Cliente confirma RAL 1013 Mate. NO Texturado. Recalcular (CÁLCULO 3) material Decor en BLANCO MATE, para relacar en RAL 1013 MATE.",
+      "21/11/2025": "Recalcular Domo Decor con Galisur Loft. Pedir tarifa a galisur. CÁLCULO 3.",
+      "09/12/2025": "Lak2 pide metros de perfiles a lacar en RAL 1013 mate. 175 metros aprox.",
+      "10/12/2025": "Cliente final cambia el acabado. Hay que averiguar RAL equivalente a su carta de colores.",
+      "17/12/2025": "Últimos cambios del proyecto recibidos. CÁLCULO 4.",
+      "18/12/2025": "Últimos cambios del proyecto recibidos. Seleccionado RAL 7044. Guías lacadas en RAL 7044. Pletinas para fachada, Pletina de 20 (Amarillo) y pletina de 50 mm (Naranja)."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "16/10/2025",
+      "Series": "Decor corredera, fijos",
+      "Acabado": "Blanco Mate (POR DEFINIR)",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3513.81,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "16/10/2025",
+      "Series": "Domo 67RT",
+      "Acabado": "Blanco Mate Texturado (POR DEFINIR)",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 801.71,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "2",
+      "Fecha": "31/10/2025",
+      "Series": "Decor corredera, fijos",
+      "Acabado": "Blanco Mate (POR DEFINIR)",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3513.81,
+      "Observaciones": ""
+    },
+  ]
+}

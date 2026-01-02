@@ -1,0 +1,38 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0146",
+  "Codigo": "2025-0146",
+  "Referencia": "Vivienda en Oliva Jesús Cebrián, vallas calle.",
+  "Cliente": 12533,
+  "Cambios": [
+    {
+      "14/07/2025": "In via en mano, visitas, whatsapps de Jesús Cebrián.",
+      "25/07/2025" : "Enviada oferta a Jesús. Material vallas y cancelas aprox. 21K, fabricacion y montaje aprox. 7K.",
+      "29/07/2025" : "Cambia vallado a Opción con lama de avion de 120 mm en horizontal. Recalcular tb cancelas.",
+      "30/07/2025" : "Cambia medidas de Valla Parque. Se respeta muro que ya existe, a 1'2 m aprox. de altura.",
+      "31/07/2025" : "Ver opciones 6962 con 811. Hay 811 en Anodizados que se debe reutilizar. Se calcula Opción 3, marco 811, tapeta 200406, postes cuadrado de 60, lama 6962.",
+      "01/08/2025" : "Estudiar con Isidoro postes de 40 o de 60x2.",
+      "01/08/2025" : "Envida oferta de aluminio a Jesús Cebrián y Emma, de vallas exteriores. Precios Netos Jaime (PVP2).",
+      "04/08/2025" : "Jesús y Emma pagan 18K, total de VALLA Exterior.",
+      "04/08/2025" : "Calculando CANCELAS y VALLA medianera, entre vivienda y vecinos.",
+      "06/08/2025" : "Comentado VALLA Exterior, VALLA medianera y CANCELA con Isidoro. Postes de valla ext. mejor con Cuadrado 60. Lama 6962 con Rect. 40x20 perimetral para acoplar a hoja cancela.",
+      "08/08/2025" : "Enviada oferta CANCELAS y VALLA MEDIANERA. Ofertas son a falta de confirmar medidas.",
+      "24/09/2025" : "Entra partida de lamas 120mm ala de avión desde Alum. Delfín.",
+      "25/09/2025" : "Se envía material a LAcado RAL 7016 Texturado, a Sopena."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "01/08/2025",
+      "Series": "Valla Exterior",
+      "Acabado": "RAL 7016 Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 16212.40,
+      "Observaciones": "Precios Netos Jaime. 16212.40 + 10% = 17833.64"
+    },
+
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0167",
+  "Codigo": "2025-0167",
+  "Referencia": "",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "04/09/2025": "In via whatsapp"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "08/09/2025",
+      "Series": "Decor practicable y fijo",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 786.32,
+      "Observaciones": ""
+    }
+  ]
+}

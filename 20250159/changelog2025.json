@@ -1,0 +1,25 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0159",
+  "Codigo": "2025-0159",
+  "Referencia": "",
+  "Cliente": 0,
+  "Cambios": [
+    {
+      "01/08/2025": "In via whatsapp. Decor corredera 4H, guía empotrada desmontable."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "04/08/2025",
+      "Series": "Domo Decor corredera",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2351.85,
+      "Observaciones": ""
+    }
+  ]
+}

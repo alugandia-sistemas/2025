@@ -1,0 +1,52 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0107",
+  "Codigo": "2025-0107",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "12/05/2025": "In via email. Ref. Laura Muñoz.",
+      "13/05/2025" : "Enviada oferta",
+      "14/05/2025" : "Cambios, añadir 1 embellecedor vertical, 1 barra de 2'8m más.",
+      "19/05/2025" : "Aceptada oferta 1 (1393), con ancho modificado a 1950 mm. Creada oferta 1393-2."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "12/05/2025",
+      "Series": "Decor fijo",
+      "Acabado": "Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 239,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "14/05/2025",
+      "Series": "Decor fijo",
+      "Acabado": "Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 258,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "3",
+      "Fecha": "19/05/2025",
+      "Series": "Decor fijo",
+      "Acabado": "Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 264,
+      "Observaciones": ""
+    }, 
+  ]
+}

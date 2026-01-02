@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0191",
+  "Codigo": "2025-0191",
+  "Referencia": "Angel Marco",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "29/09/2025": "In via whatsapp. Ref. Ángel Marco, Obra Tavernes.",
+      "30/09/2025": "Enviada oferta."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "29/09/2025",
+      "Series": "Decor corredera, fijo, practicable",
+      "Acabado": "Lac. Negro",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2840.71,
+      "Observaciones": "Cuadrado de 40 incluido."
+    }
+  ]
+}

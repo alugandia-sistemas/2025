@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0092",
+  "Codigo": "2025-0092",
+  "Referencia": "",
+  "Cliente": 12571,
+  "Cambios": [
+    {
+      "25/04/2025" : "In via en mano, Jaime. Proyecto ventans correderas de Hotel, 126 uds.",
+      "30/04/2025" : "Enviado cálculo preliminar a Jaime, Rosabel y Pepe Malonda.",
+      "30/04/2025" : "Opción 1: Perimetral y cruce recto. Opción 2: Corte recto hojas y cruce recto.",
+      "30/04/2025" : "Repasados accesorios, y enviada oferta OPCIÓN 2 al cliente."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "29/04/2025",
+      "Series": "Domo 67RT-CO",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 51943.50,
+      "Observaciones": "Precios netos Jaime. Opc. 1 es 52242.78€, Opc. 2 es 51943.50€"
+    }
+  ]
+}

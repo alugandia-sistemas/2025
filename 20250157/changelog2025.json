@@ -1,0 +1,26 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0157",
+  "Codigo": "2025-0157",
+  "Referencia": "",
+  "Cliente": 12506,
+  "Cambios": [
+    {
+      "30/07/2025": "In via whatsapp",
+      "31/07/2025" : "Enviada oferta a Sebas de Eco Ventanas Morsán. Entregadas muestras, visita a Pol. Alcodar a Sebas."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "31/07/2025",
+      "Series": "Decor corredera, practicable kit magnético",
+      "Acabado": "Lac. Negro texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1009.03,
+      "Observaciones": "Baño es 482.24 y Lavanderia es 526.79"
+    }
+  ]
+}

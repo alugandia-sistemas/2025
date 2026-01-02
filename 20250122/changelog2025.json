@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0122",
+  "Codigo": "2025-0122",
+  "Referencia": "",
+  "Cliente": 12508,
+  "Cambios": [
+    {
+      "06/06/2025" : "In via email",
+      "10/06/2025" : "Enviada oferta",
+      "11/06/2025" : "Cálculo REAL es con guía techo vista, 2 uds. de 4 m. 1087.32 € + 5% (SPECIAL DURITIA) = 1141.69 €."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "09/06/2025",
+      "Series": "Decor corredera, guía techo vista",
+      "Acabado": "Blanco mate",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1431.94,
+      "Observaciones": "Para competir con lasser, fabricante de mamparas y separadores de interiorismo. Amortiguador 35041, ruedas 35038."
+    }
+  ]
+}

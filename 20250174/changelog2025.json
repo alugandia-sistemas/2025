@@ -1,0 +1,28 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0174",
+  "Codigo": "2025-0174",
+  "Referencia": "",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "15/09/2025": "In via en mano, Vicent de Melchor Mañó.",
+      "15/09/2025": "Pedida guía de 4m, 35081. Indalsu confirma envío de guía 35081 a 6m.",
+      "31/10/2025": "Incidencia con guía 35011. Cliente dice que no le llega 1 de las 3.",
+      "1/11/2025": "Cliente encuenta guía en su taller. Nos informa el 5/11."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "16/09/2025",
+      "Series": "Decor corredera",
+      "Acabado": "",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1805.98,
+      "Observaciones": ""
+    }
+  ]
+}

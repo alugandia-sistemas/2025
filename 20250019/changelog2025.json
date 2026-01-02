@@ -1,0 +1,25 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0019",
+  "Codigo": "2025-0019",
+  "Referencia": "Decor 4H4C",
+  "Cliente": 5159,
+  "Cambios": [
+    {
+      "28/01/2025": "In via whatsapp."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "28/01/2025",
+      "Series": "Decor corredera 35007",
+      "Acabado": "Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 2055.95,
+      "Observaciones": "Añadir pletina 40x4, 3 barras."
+    }
+  ]
+}

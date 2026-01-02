@@ -1,0 +1,41 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0036",
+  "Codigo": "2025-0036",
+  "Referencia": "",
+  "Cliente": 8003,
+  "Cambios": [
+    {
+      "17/02/2025": "In via email.",
+      "17/02/2025" : "Enviada oferta",
+      "18/02/2025" : "Cliente pide oferta 2, con kit practicable con condena en Aseo, y opción de Travesaño en todas.",
+      "19/02/2025" : "Se informa al cliente que opción con travesaños no es viable. No hay Kit Divisor Vertical, sólo horizontal.",
+      "20/02/2025" : "Calculada y enviada oferta 2 de ASEO."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "17/02/2025",
+      "Series": "Decor corredera y fijos",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3665.38,
+      "Observaciones": "Recibidor (1833.69), Despacho (1208.72) y Aseo (613.97)"
+    },
+    {
+      "Orden": "2",
+      "Fecha": "20/02/2025",
+      "Series": "Decor corredera y fijos",
+      "Acabado": "Lac. Negro Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 3924.90,
+      "Observaciones": "Recibidor (1833.69), Despacho (1208.72) y Aseo (882.49) con Kit Condena."
+    },
+  ]
+}

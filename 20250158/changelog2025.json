@@ -1,0 +1,42 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0158",
+  "Codigo": "2025-0158",
+  "Referencia": "Valla medianera Obra Jesús y Emma en Oliva",
+  "Cliente": 12533,
+  "Cambios": [
+    {
+      "31/07/2025": "In via llamada de Emma. Comenta que le pasemos opciones de valla para medianera con el vecino.",
+      "07/08/2025" : "Calculada opción Domo multiclip, con lama 238.",
+      "" : "Whatsapp y llamada de Emma y Jesús",
+      "" : "Whatsapp de Emma",
+      "03/11/2025" : "Recalcular presupuesto, con medidas reales.",
+      "04/11/2025": "Enviadas ofertas a Jesús"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "07/08/2025",
+      "Series": "Domo multiclip",
+      "Acabado": "RAL 7016 Text.",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0,
+      "Total neto": 4208.84,
+      "Observaciones": "Precios especiales de stock en casa (Jaime)."
+    },
+    {
+      "Orden": "1",
+      "Fecha": "03/11/2025",
+      "Series": "Domo multiclip",
+      "Acabado": "Lac. Blanco",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0,
+      "Total neto": 4834.56,
+      "Observaciones": "Precios especiales de stock en casa (Jaime)."
+    },
+  ]
+}

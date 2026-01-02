@@ -1,0 +1,51 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0054",
+  "Codigo": "2025-0054",
+  "Referencia": "Renovación fachada Germanías 11",
+  "Cliente": 1025,
+  "Cambios": [
+    {
+      "07/03/2025": "In via whatsapp. Memoria de carpinterías enviada por Daniel Palomino. Constructor responsable: Edimova.",
+      "07/03/2025" : "Obra Singular Paseo Germanías 11.",
+      "10/03/2025" : "Jaime visita y comenta proyecto con Melchor Mañó. Melchor se pondrá en contacto con Daniel Palomino, para pasar oferta con series Alugandia.",
+      "13/03/2024" : "Calcular con 67RT-HO, Anod. Bronce y enviar oferta a Melchor Mañó.",
+      "01/04/2025" : "Enviada oferta a Ventaluxe. Esperando respuesta de Juan Donet Hijo.",
+      "14/04/2025" : "Obra 50% Alugandia. Domo 67RT, RAL 7016. Seguir comentando detalles con Juan Donet (Ventaluxe)",
+      "30/07/2025" : "Jaun Donet, de Ventaluxe, envía listado de material para valoración.",
+      "04/08/2025" : "Juan Donet padre, viene a preguntar por matriz, escuadra o algode material para detalels técnicos de matrizados, mecanizados, etc ...",
+      "06/08/2025" : "Entra cuña muestra de Domo 67RT-HO CE de Indalsu. 35€ coste.",
+      "06/08/2025" : "Conversación con Juan Donet sobre Proyecto. Opción de hacerlo todo Alugandia. Esperar represalias de la otra parte.",
+      "09/08/2025" : "Juan Donet hijo pasa pedido por email. 2025-0054-3.",
+      "09/09/2025" : "Entra material de Indalsu en Alugandia.",
+      "21/09/2025" : "Entregado gerraje Fapim a Disalu/Ventaluxe.",
+      "26/09/2025" : "Alberto (?) de Disalu, viene preguntando si tenemos stock de ángulo vulcanizado 31034, para junquillo termoplástico 31213. No se ha pedido, no consta en pedido."
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "13/03/2025",
+      "Series": "Domo 67RT-HO",
+      "Acabado": "Anod. Bronce",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    },
+    {
+      "Orden": "1",
+      "Fecha": "31/07/2025",
+      "Series": "Domo 67RT-HO CE",
+      "Acabado": "Lac. RAL 7016 Texturado",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 0.0,
+      "Observaciones": ""
+    },
+
+  ]
+}

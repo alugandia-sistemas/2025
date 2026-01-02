@@ -1,0 +1,27 @@
+{
+  "Info": "Archivo de cambios del proyecto 2025-0210",
+  "Codigo": "2025-0210",
+  "Referencia": "",
+  "Cliente": 1160,
+  "Cambios": [
+    {
+      "27/10/2025": "In via whatsapp a Jaime. Decor Lac. Madera.",
+      "28/10/2025": "Calculado con precios de Adinor los artículos que tienen acabado Lac. Madera. Medidas máximas 1500 x 2500 (An x Al). Peso vidrio 1.42x2.5 aprox. 72 Kgrs. Muy pesado. Calculado amortiguador 120 Kgrs. guía desmontable (Adinor) y ruedas 120 Kgrs. (Adinor)",
+      "28/10/2025": "Enviada oferta"
+    }
+  ],
+  "Cálculos": [
+    {
+      "Orden": "1",
+      "Fecha": "28/10/2025",
+      "Series": "Decor corredera",
+      "Acabado": "Chapa Nogal",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 1747.92,
+      "Observaciones": ""
+    }
+  ]
+}

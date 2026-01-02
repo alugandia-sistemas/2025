@@ -1,0 +1,43 @@
+newmtl mat0_TMaterial3dRal
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Ns 1
+illum 2
+newmtl mat1_TMaterial3dMaterial
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 1
+illum 2
+newmtl mat2_TMaterial3dRal
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 1
+illum 2
+newmtl mat3_TMaterial3dMaterial
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ns 0.5
+illum 2
+newmtl mat4_TMaterial3dMaterial
+Ka 0 0 0
+Kd 0.835294127464294 0.105882354080677 0
+Ks 1 1 1
+Ns 1
+illum 2
+newmtl mat5_TMaterial3dRalAcce
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Ns 1
+illum 2
+newmtl mat6_TMaterial3dMaterial
+Ka 0 0 0
+Kd 0.333333343267441 0.800000011920929 1
+Ks 0.529411792755127 0.807843148708344 0.921568632125854
+Ns 1
+illum 4
+d 0.2
