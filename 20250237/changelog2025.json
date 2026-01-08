@@ -9,8 +9,9 @@
       "23/12/2025": "Proyecto son 9 plantas, 2 apartamentos por planta, 2 ventanas por apartamento. 36 ventanas. PRIMERA FASE son 3 primeras plantas (12 ventanas)",
       "23/12/2025": "Calculado con Domo 85RT Plus. Lac. Blanco con tratamiento seaside",
       "02/01/2026": "Enviada oferta a Jaime.",
-      "02/01/2026": "Recalcular corrigiendo: eliminar juntaacrist. 31073, corregir 14b x 6.3 m de 31200.",
-      "02/01/2026": "Enviada oferta cliente."
+      "02/01/2026": "Recalcular corrigiendo: eliminar junta acrist. 31073, corregir 14b x 6.3 m de 31200.",
+      "02/01/2026": "Enviada oferta cliente (Melchor Mañó).",
+      "08/01/2026": "Indalsu confirma que 85RT está descatalogada. Recalcular OFERTA 2 con 67RT-CO. Precios de 67RT-CO los mismos que para 85RT."
     }
   ],
   "Cálculos": [
@@ -25,6 +26,19 @@
       "Perfiles neto": 0.0,
       "Total neto": 4378.11,
       "Observaciones": "4487.91 - 109.8 (31073) = 4378.11. PVP2, precios Jaime."
-    }
+    },
+    {
+      "Orden": "2",
+      "Fecha": "08/01/2026",
+      "Series": "Domo 67RT-CO",
+      "Acabado": "LBN Seaside",
+      "Descuentos": 0,
+      "Perfiles": 0.0,
+      "Accesorios": 0.0,
+      "Perfiles neto": 0.0,
+      "Total neto": 4356.24,
+      "Observaciones": "4468.08 - Descontar junta acristalar, 111.84€. PVP2, precios Jaime."
+    },
+
   ]
 }
